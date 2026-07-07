@@ -25,6 +25,8 @@
 
 body {
   margin: 0;
+  /* Stop mobile pull-to-refresh / overscroll from hijacking map drags */
+  overscroll-behavior: none;
 }
 
 #root {
