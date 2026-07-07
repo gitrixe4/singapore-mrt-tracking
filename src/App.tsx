@@ -12,6 +12,13 @@ const lines = linesData as LineMeta[];
 
 const MAIN_LINES = lines.filter((l) => !["CG", "CE"].includes(l.id));
 
+// Branch segments drawn as separate paths but belonging to a parent line;
+// they must show/hide together with it.
+const LINE_BRANCHES: Record<string, string[]> = {
+  EW: ["CG"], // Changi Airport branch
+  CC: ["CE"], // Marina Bay extension
+};
+
 export default function App() {
   const [query, setQuery] = useState("");
   const [selectedStationId, setSelectedStationId] = useState<string | null>(null);
@@ -51,8 +58,9 @@ export default function App() {
   const toggleLine = (id: string) => {
     setHiddenLineIds((prev) => {
       const next = new Set(prev);
-      if (next.has(id)) next.delete(id);
-      else next.add(id);
+      const ids = [id, ...(LINE_BRANCHES[id] ?? [])];
+      if (next.has(id)) ids.forEach((i) => next.delete(i));
+      else ids.forEach((i) => next.add(i));
       return next;
     });
   };

@@ -1836,12 +1836,6 @@
         "lineName": "Circle Line"
       },
       {
-        "line": "CE",
-        "code": "CC4",
-        "color": "#fa9e0d",
-        "lineName": "Circle Line Extension"
-      },
-      {
         "line": "DT",
         "code": "DT15",
         "color": "#005ec4",
@@ -2372,12 +2366,6 @@
         "code": "EW4",
         "color": "#009645",
         "lineName": "East West Line"
-      },
-      {
-        "line": "CG",
-        "code": "EW4",
-        "color": "#009645",
-        "lineName": "Changi Airport Branch"
       }
     ]
   },
