@@ -1,0 +1,2754 @@
+[
+  {
+    "id": "admiralty",
+    "name": "Admiralty",
+    "lat": 1.44058500109,
+    "lng": 103.800988001,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS10",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "aljunied",
+    "name": "Aljunied",
+    "lat": 1.31643261166,
+    "lng": 103.882906045,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW9",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "ang-mo-kio",
+    "name": "Ang Mo Kio",
+    "lat": 1.36993317524,
+    "lng": 103.849558131,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS16",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "bakau",
+    "name": "Bakau",
+    "lat": 1.38799293427,
+    "lng": 103.905413992,
+    "lines": [
+      {
+        "line": "SK",
+        "code": "SE5",
+        "color": "#748477",
+        "lineName": "Sengkang LRT"
+      }
+    ]
+  },
+  {
+    "id": "bangkit",
+    "name": "Bangkit",
+    "lat": 1.38002223,
+    "lng": 103.772647371,
+    "lines": [
+      {
+        "line": "BP",
+        "code": "BP8",
+        "color": "#748477",
+        "lineName": "Bukit Panjang LRT"
+      }
+    ]
+  },
+  {
+    "id": "bartley",
+    "name": "Bartley",
+    "lat": 1.34250117776,
+    "lng": 103.880177899,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC12",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "bayfront",
+    "name": "Bayfront",
+    "lat": 1.28187378849,
+    "lng": 103.859079765,
+    "lines": [
+      {
+        "line": "CE",
+        "code": "CE1",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line Extension"
+      },
+      {
+        "line": "DT",
+        "code": "DT16",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "bayshore",
+    "name": "Bayshore",
+    "lat": 1.31259162908,
+    "lng": 103.940968762,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE29",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "beauty-world",
+    "name": "Beauty World",
+    "lat": 1.34122317571,
+    "lng": 103.775794285,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT5",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "bedok",
+    "name": "Bedok",
+    "lat": 1.32397996889,
+    "lng": 103.929984495,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW5",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "bedok-north",
+    "name": "Bedok North",
+    "lat": 1.33474211676,
+    "lng": 103.91797833,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT29",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "bedok-reservoir",
+    "name": "Bedok Reservoir",
+    "lat": 1.33660782981,
+    "lng": 103.932234624,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT30",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "bedok-south",
+    "name": "Bedok South",
+    "lat": 1.31688894033,
+    "lng": 103.949065273,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE30",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "bencoolen",
+    "name": "Bencoolen",
+    "lat": 1.29891843393,
+    "lng": 103.850353762,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT21",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "bendemeer",
+    "name": "Bendemeer",
+    "lat": 1.31367223254,
+    "lng": 103.862977987,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT23",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "bishan",
+    "name": "Bishan",
+    "lat": 1.35130868012,
+    "lng": 103.849154419,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS17",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      },
+      {
+        "line": "CC",
+        "code": "CC15",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "boon-keng",
+    "name": "Boon Keng",
+    "lat": 1.31933570911,
+    "lng": 103.861569454,
+    "lines": [
+      {
+        "line": "NE",
+        "code": "NE9",
+        "color": "#9900aa",
+        "lineName": "North East Line"
+      }
+    ]
+  },
+  {
+    "id": "boon-lay",
+    "name": "Boon Lay",
+    "lat": 1.3386040545,
+    "lng": 103.706064623,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW27",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "botanic-gardens",
+    "name": "Botanic Gardens",
+    "lat": 1.3224880711,
+    "lng": 103.816013994,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC19",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      },
+      {
+        "line": "DT",
+        "code": "DT9",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "braddell",
+    "name": "Braddell",
+    "lat": 1.34010520725,
+    "lng": 103.846755921,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS18",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "bras-basah",
+    "name": "Bras Basah",
+    "lat": 1.29686168653,
+    "lng": 103.850667372,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC2",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "bright-hill",
+    "name": "Bright Hill",
+    "lat": 1.36367137584,
+    "lng": 103.833631645,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE7",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "buangkok",
+    "name": "Buangkok",
+    "lat": 1.38287785815,
+    "lng": 103.893121565,
+    "lines": [
+      {
+        "line": "NE",
+        "code": "NE15",
+        "color": "#9900aa",
+        "lineName": "North East Line"
+      }
+    ]
+  },
+  {
+    "id": "bugis",
+    "name": "Bugis",
+    "lat": 1.3002646898,
+    "lng": 103.855614761,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW12",
+        "color": "#009645",
+        "lineName": "East West Line"
+      },
+      {
+        "line": "DT",
+        "code": "DT14",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "bukit-batok",
+    "name": "Bukit Batok",
+    "lat": 1.34903410858,
+    "lng": 103.749566764,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS2",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "bukit-gombak",
+    "name": "Bukit Gombak",
+    "lat": 1.35861159108,
+    "lng": 103.751790911,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS3",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "bukit-panjang",
+    "name": "Bukit Panjang",
+    "lat": 1.37900211672,
+    "lng": 103.761535115,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT1",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      },
+      {
+        "line": "BP",
+        "code": "BP5",
+        "color": "#748477",
+        "lineName": "Bukit Panjang LRT"
+      }
+    ]
+  },
+  {
+    "id": "buona-vista",
+    "name": "Buona Vista",
+    "lat": 1.30663450449,
+    "lng": 103.790709404,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW21",
+        "color": "#009645",
+        "lineName": "East West Line"
+      },
+      {
+        "line": "CC",
+        "code": "CC22",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "caldecott",
+    "name": "Caldecott",
+    "lat": 1.33767450804,
+    "lng": 103.839529821,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC17",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      },
+      {
+        "line": "TE",
+        "code": "TE9",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "canberra",
+    "name": "Canberra",
+    "lat": 1.44324371648,
+    "lng": 103.829578144,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS12",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "cashew",
+    "name": "Cashew",
+    "lat": 1.36981544888,
+    "lng": 103.764439214,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT2",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "changi-airport",
+    "name": "Changi Airport",
+    "lat": 1.35747897469,
+    "lng": 103.98788357,
+    "lines": [
+      {
+        "line": "CG",
+        "code": "CG2",
+        "color": "#009645",
+        "lineName": "Changi Airport Branch"
+      }
+    ]
+  },
+  {
+    "id": "cheng-lim",
+    "name": "Cheng Lim",
+    "lat": 1.39627763134,
+    "lng": 103.893797181,
+    "lines": [
+      {
+        "line": "SK",
+        "code": "SE8",
+        "color": "#748477",
+        "lineName": "Sengkang LRT"
+      }
+    ]
+  },
+  {
+    "id": "chinatown",
+    "name": "Chinatown",
+    "lat": 1.28435957823,
+    "lng": 103.843426776,
+    "lines": [
+      {
+        "line": "NE",
+        "code": "NE4",
+        "color": "#9900aa",
+        "lineName": "North East Line"
+      },
+      {
+        "line": "DT",
+        "code": "DT19",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "chinese-garden",
+    "name": "Chinese Garden",
+    "lat": 1.34235282087,
+    "lng": 103.732596738,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW25",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "choa-chu-kang",
+    "name": "Choa Chu Kang",
+    "lat": 1.38536316535,
+    "lng": 103.74437078,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS4",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      },
+      {
+        "line": "BP",
+        "code": "BP1",
+        "color": "#748477",
+        "lineName": "Bukit Panjang LRT"
+      }
+    ]
+  },
+  {
+    "id": "city-hall",
+    "name": "City Hall",
+    "lat": 1.29293624285,
+    "lng": 103.852585892,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS25",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      },
+      {
+        "line": "EW",
+        "code": "EW13",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "clarke-quay",
+    "name": "Clarke Quay",
+    "lat": 1.2883860242,
+    "lng": 103.846555209,
+    "lines": [
+      {
+        "line": "NE",
+        "code": "NE5",
+        "color": "#9900aa",
+        "lineName": "North East Line"
+      }
+    ]
+  },
+  {
+    "id": "clementi",
+    "name": "Clementi",
+    "lat": 1.31520126395,
+    "lng": 103.765182447,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW23",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "commonwealth",
+    "name": "Commonwealth",
+    "lat": 1.30250853671,
+    "lng": 103.798226128,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW20",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "compassvale",
+    "name": "Compassvale",
+    "lat": 1.3944930462,
+    "lng": 103.900492451,
+    "lines": [
+      {
+        "line": "SK",
+        "code": "SE7",
+        "color": "#748477",
+        "lineName": "Sengkang LRT"
+      }
+    ]
+  },
+  {
+    "id": "coral-edge",
+    "name": "Coral Edge",
+    "lat": 1.39390922612,
+    "lng": 103.912580855,
+    "lines": [
+      {
+        "line": "PG",
+        "code": "PE3",
+        "color": "#748477",
+        "lineName": "Punggol LRT"
+      }
+    ]
+  },
+  {
+    "id": "cove",
+    "name": "Cove",
+    "lat": 1.39928198502,
+    "lng": 103.905961944,
+    "lines": [
+      {
+        "line": "PG",
+        "code": "PE1",
+        "color": "#748477",
+        "lineName": "Punggol LRT"
+      }
+    ]
+  },
+  {
+    "id": "dakota",
+    "name": "Dakota",
+    "lat": 1.30854798428,
+    "lng": 103.889064718,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC8",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "damai",
+    "name": "Damai",
+    "lat": 1.40523483617,
+    "lng": 103.908603544,
+    "lines": [
+      {
+        "line": "PG",
+        "code": "PE7",
+        "color": "#748477",
+        "lineName": "Punggol LRT"
+      }
+    ]
+  },
+  {
+    "id": "dhoby-ghaut",
+    "name": "Dhoby Ghaut",
+    "lat": 1.29870130663,
+    "lng": 103.846115155,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS24",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      },
+      {
+        "line": "CC",
+        "code": "CC1",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      },
+      {
+        "line": "NE",
+        "code": "NE6",
+        "color": "#9900aa",
+        "lineName": "North East Line"
+      }
+    ]
+  },
+  {
+    "id": "dover",
+    "name": "Dover",
+    "lat": 1.31140529293,
+    "lng": 103.778637842,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW22",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "downtown",
+    "name": "Downtown",
+    "lat": 1.27944619038,
+    "lng": 103.852840444,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT17",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "esplanade",
+    "name": "Esplanade",
+    "lat": 1.2936577248,
+    "lng": 103.855081226,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC3",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "eunos",
+    "name": "Eunos",
+    "lat": 1.3198383468,
+    "lng": 103.903626852,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW7",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "expo",
+    "name": "Expo",
+    "lat": 1.33538213733,
+    "lng": 103.962375707,
+    "lines": [
+      {
+        "line": "CG",
+        "code": "CG1",
+        "color": "#009645",
+        "lineName": "Changi Airport Branch"
+      },
+      {
+        "line": "DT",
+        "code": "DT35",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "fajar",
+    "name": "Fajar",
+    "lat": 1.38452079708,
+    "lng": 103.770808583,
+    "lines": [
+      {
+        "line": "BP",
+        "code": "BP10",
+        "color": "#748477",
+        "lineName": "Bukit Panjang LRT"
+      }
+    ]
+  },
+  {
+    "id": "farmway",
+    "name": "Farmway",
+    "lat": 1.39717019646,
+    "lng": 103.88930481,
+    "lines": [
+      {
+        "line": "SK",
+        "code": "SE9",
+        "color": "#748477",
+        "lineName": "Sengkang LRT"
+      }
+    ]
+  },
+  {
+    "id": "farrer-park",
+    "name": "Farrer Park",
+    "lat": 1.31190557366,
+    "lng": 103.853477716,
+    "lines": [
+      {
+        "line": "NE",
+        "code": "NE8",
+        "color": "#9900aa",
+        "lineName": "North East Line"
+      }
+    ]
+  },
+  {
+    "id": "farrer-road",
+    "name": "Farrer Road",
+    "lat": 1.31743915137,
+    "lng": 103.807379214,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC20",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "fernvale",
+    "name": "Fernvale",
+    "lat": 1.39188588774,
+    "lng": 103.876308611,
+    "lines": [
+      {
+        "line": "SK",
+        "code": "SE13",
+        "color": "#748477",
+        "lineName": "Sengkang LRT"
+      }
+    ]
+  },
+  {
+    "id": "fort-canning",
+    "name": "Fort Canning",
+    "lat": 1.29247892792,
+    "lng": 103.84432827,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT20",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "gardens-by-the-bay",
+    "name": "Gardens by the Bay",
+    "lat": 1.27914567316,
+    "lng": 103.868024688,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE22",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "geylang-bahru",
+    "name": "Geylang Bahru",
+    "lat": 1.32150583802,
+    "lng": 103.871900626,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT24",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "great-world",
+    "name": "Great World",
+    "lat": 1.2938147349,
+    "lng": 103.833725122,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE15",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "gul-circle",
+    "name": "Gul Circle",
+    "lat": 1.31950521494,
+    "lng": 103.660552957,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW30",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "harbourfront",
+    "name": "HarbourFront",
+    "lat": 1.26538938442,
+    "lng": 103.821530157,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC29",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      },
+      {
+        "line": "NE",
+        "code": "NE1",
+        "color": "#9900aa",
+        "lineName": "North East Line"
+      }
+    ]
+  },
+  {
+    "id": "havelock",
+    "name": "Havelock",
+    "lat": 1.2884,
+    "lng": 103.8332,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE16",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "haw-par-villa",
+    "name": "Haw Par Villa",
+    "lat": 1.28257135831,
+    "lng": 103.781752725,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC25",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "hillview",
+    "name": "Hillview",
+    "lat": 1.36234486762,
+    "lng": 103.767418254,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT3",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "holland-village",
+    "name": "Holland Village",
+    "lat": 1.31224029607,
+    "lng": 103.796399122,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC21",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "hougang",
+    "name": "Hougang",
+    "lat": 1.37129229258,
+    "lng": 103.892380519,
+    "lines": [
+      {
+        "line": "NE",
+        "code": "NE14",
+        "color": "#9900aa",
+        "lineName": "North East Line"
+      }
+    ]
+  },
+  {
+    "id": "jalan-besar",
+    "name": "Jalan Besar",
+    "lat": 1.30517138759,
+    "lng": 103.855295714,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT22",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "jelapang",
+    "name": "Jelapang",
+    "lat": 1.38670302501,
+    "lng": 103.764503338,
+    "lines": [
+      {
+        "line": "BP",
+        "code": "BP11",
+        "color": "#748477",
+        "lineName": "Bukit Panjang LRT"
+      }
+    ]
+  },
+  {
+    "id": "joo-koon",
+    "name": "Joo Koon",
+    "lat": 1.32771717309,
+    "lng": 103.678375144,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW29",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "jurong-east",
+    "name": "Jurong East",
+    "lat": 1.33315261989,
+    "lng": 103.742286544,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS1",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      },
+      {
+        "line": "EW",
+        "code": "EW24",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "kadaloor",
+    "name": "Kadaloor",
+    "lat": 1.39950911282,
+    "lng": 103.916574965,
+    "lines": [
+      {
+        "line": "PG",
+        "code": "PE5",
+        "color": "#748477",
+        "lineName": "Punggol LRT"
+      }
+    ]
+  },
+  {
+    "id": "kaki-bukit",
+    "name": "Kaki Bukit",
+    "lat": 1.33496730156,
+    "lng": 103.908459734,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT28",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "kallang",
+    "name": "Kallang",
+    "lat": 1.31148890964,
+    "lng": 103.871386541,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW10",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "kangkar",
+    "name": "Kangkar",
+    "lat": 1.38395911467,
+    "lng": 103.902225371,
+    "lines": [
+      {
+        "line": "SK",
+        "code": "SE4",
+        "color": "#748477",
+        "lineName": "Sengkang LRT"
+      }
+    ]
+  },
+  {
+    "id": "katong-park",
+    "name": "Katong Park",
+    "lat": 1.29794790462,
+    "lng": 103.886080218,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE24",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "keat-hong",
+    "name": "Keat Hong",
+    "lat": 1.37860276598,
+    "lng": 103.749055519,
+    "lines": [
+      {
+        "line": "BP",
+        "code": "BP2",
+        "color": "#748477",
+        "lineName": "Bukit Panjang LRT"
+      }
+    ]
+  },
+  {
+    "id": "kembangan",
+    "name": "Kembangan",
+    "lat": 1.32103824885,
+    "lng": 103.912949388,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW6",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "kent-ridge",
+    "name": "Kent Ridge",
+    "lat": 1.29353698614,
+    "lng": 103.784572367,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC24",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "khatib",
+    "name": "Khatib",
+    "lat": 1.41738337015,
+    "lng": 103.832979909,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS14",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "king-albert-park",
+    "name": "King Albert Park",
+    "lat": 1.33566276202,
+    "lng": 103.783399114,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT6",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "kovan",
+    "name": "Kovan",
+    "lat": 1.36017917027,
+    "lng": 103.885064856,
+    "lines": [
+      {
+        "line": "NE",
+        "code": "NE13",
+        "color": "#9900aa",
+        "lineName": "North East Line"
+      }
+    ]
+  },
+  {
+    "id": "kranji",
+    "name": "Kranji",
+    "lat": 1.42508698033,
+    "lng": 103.762137459,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS7",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "kupang",
+    "name": "Kupang",
+    "lat": 1.3982128284,
+    "lng": 103.881256222,
+    "lines": [
+      {
+        "line": "SK",
+        "code": "SE10",
+        "color": "#748477",
+        "lineName": "Sengkang LRT"
+      }
+    ]
+  },
+  {
+    "id": "labrador-park",
+    "name": "Labrador Park",
+    "lat": 1.27225417751,
+    "lng": 103.802631578,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC27",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "lakeside",
+    "name": "Lakeside",
+    "lat": 1.3442592503,
+    "lng": 103.720949268,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW26",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "lavender",
+    "name": "Lavender",
+    "lat": 1.30739187936,
+    "lng": 103.86278461,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW11",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "layar",
+    "name": "Layar",
+    "lat": 1.39207983877,
+    "lng": 103.880029601,
+    "lines": [
+      {
+        "line": "SK",
+        "code": "SE12",
+        "color": "#748477",
+        "lineName": "Sengkang LRT"
+      }
+    ]
+  },
+  {
+    "id": "lentor",
+    "name": "Lentor",
+    "lat": 1.38550657933,
+    "lng": 103.83574381,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE5",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "little-india",
+    "name": "Little India",
+    "lat": 1.30680002531,
+    "lng": 103.849646967,
+    "lines": [
+      {
+        "line": "NE",
+        "code": "NE7",
+        "color": "#9900aa",
+        "lineName": "North East Line"
+      },
+      {
+        "line": "DT",
+        "code": "DT12",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "lorong-chuan",
+    "name": "Lorong Chuan",
+    "lat": 1.35161217103,
+    "lng": 103.864151939,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC14",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "macpherson",
+    "name": "MacPherson",
+    "lat": 1.32615024251,
+    "lng": 103.889298596,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC10",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      },
+      {
+        "line": "DT",
+        "code": "DT26",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "marina-bay",
+    "name": "Marina Bay",
+    "lat": 1.2763111438,
+    "lng": 103.854604976,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS27",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      },
+      {
+        "line": "CE",
+        "code": "CE2",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line Extension"
+      },
+      {
+        "line": "TE",
+        "code": "TE20",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "marina-south-pier",
+    "name": "Marina South Pier",
+    "lat": 1.27102703618,
+    "lng": 103.862447516,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS28",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "marine-parade",
+    "name": "Marine Parade",
+    "lat": 1.30263014513,
+    "lng": 103.904961932,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE26",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "marine-terrace",
+    "name": "Marine Terrace",
+    "lat": 1.30676267898,
+    "lng": 103.915232532,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE27",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "marsiling",
+    "name": "Marsiling",
+    "lat": 1.43252114828,
+    "lng": 103.774074641,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS8",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "marymount",
+    "name": "Marymount",
+    "lat": 1.34870726302,
+    "lng": 103.839423133,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC16",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "mattar",
+    "name": "Mattar",
+    "lat": 1.32687671471,
+    "lng": 103.883247509,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT25",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "maxwell",
+    "name": "Maxwell",
+    "lat": 1.28053158615,
+    "lng": 103.843847647,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE18",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "mayflower",
+    "name": "Mayflower",
+    "lat": 1.3714631884,
+    "lng": 103.836567766,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE6",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "meridian",
+    "name": "Meridian",
+    "lat": 1.39691205306,
+    "lng": 103.908950217,
+    "lines": [
+      {
+        "line": "PG",
+        "code": "PE2",
+        "color": "#748477",
+        "lineName": "Punggol LRT"
+      }
+    ]
+  },
+  {
+    "id": "mountbatten",
+    "name": "Mountbatten",
+    "lat": 1.30620190483,
+    "lng": 103.882528081,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC7",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "napier",
+    "name": "Napier",
+    "lat": 1.30678307773,
+    "lng": 103.818967004,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE12",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "newton",
+    "name": "Newton",
+    "lat": 1.31232009956,
+    "lng": 103.8379853,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS21",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      },
+      {
+        "line": "DT",
+        "code": "DT11",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "nibong",
+    "name": "Nibong",
+    "lat": 1.41187045845,
+    "lng": 103.900313818,
+    "lines": [
+      {
+        "line": "PG",
+        "code": "PE12",
+        "color": "#748477",
+        "lineName": "Punggol LRT"
+      }
+    ]
+  },
+  {
+    "id": "nicoll-highway",
+    "name": "Nicoll Highway",
+    "lat": 1.29976683527,
+    "lng": 103.863637018,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC5",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "novena",
+    "name": "Novena",
+    "lat": 1.32044079085,
+    "lng": 103.843825619,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS20",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "oasis",
+    "name": "Oasis",
+    "lat": 1.40228667749,
+    "lng": 103.912727356,
+    "lines": [
+      {
+        "line": "PG",
+        "code": "PE6",
+        "color": "#748477",
+        "lineName": "Punggol LRT"
+      }
+    ]
+  },
+  {
+    "id": "orchard",
+    "name": "Orchard",
+    "lat": 1.30398101334,
+    "lng": 103.832241452,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS22",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      },
+      {
+        "line": "TE",
+        "code": "TE14",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "orchard-boulevard",
+    "name": "Orchard Boulevard",
+    "lat": 1.30242224794,
+    "lng": 103.823868523,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE13",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "outram-park",
+    "name": "Outram Park",
+    "lat": 1.27973970676,
+    "lng": 103.839513521,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW16",
+        "color": "#009645",
+        "lineName": "East West Line"
+      },
+      {
+        "line": "NE",
+        "code": "NE3",
+        "color": "#9900aa",
+        "lineName": "North East Line"
+      },
+      {
+        "line": "TE",
+        "code": "TE17",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "pasir-panjang",
+    "name": "Pasir Panjang",
+    "lat": 1.27621352269,
+    "lng": 103.791350313,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC26",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "pasir-ris",
+    "name": "Pasir Ris",
+    "lat": 1.37304321199,
+    "lng": 103.949284605,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW1",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "paya-lebar",
+    "name": "Paya Lebar",
+    "lat": 1.3172473855,
+    "lng": 103.892260754,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW8",
+        "color": "#009645",
+        "lineName": "East West Line"
+      },
+      {
+        "line": "CC",
+        "code": "CC9",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "pending",
+    "name": "Pending",
+    "lat": 1.3761357435,
+    "lng": 103.771261176,
+    "lines": [
+      {
+        "line": "BP",
+        "code": "BP6",
+        "color": "#748477",
+        "lineName": "Bukit Panjang LRT"
+      }
+    ]
+  },
+  {
+    "id": "petir",
+    "name": "Petir",
+    "lat": 1.37775033382,
+    "lng": 103.76666896,
+    "lines": [
+      {
+        "line": "BP",
+        "code": "BP7",
+        "color": "#748477",
+        "lineName": "Bukit Panjang LRT"
+      }
+    ]
+  },
+  {
+    "id": "phoenix",
+    "name": "Phoenix",
+    "lat": 1.37861884445,
+    "lng": 103.758034099,
+    "lines": [
+      {
+        "line": "BP",
+        "code": "BP4",
+        "color": "#748477",
+        "lineName": "Bukit Panjang LRT"
+      }
+    ]
+  },
+  {
+    "id": "pioneer",
+    "name": "Pioneer",
+    "lat": 1.3375868822,
+    "lng": 103.697321513,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW28",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "potong-pasir",
+    "name": "Potong Pasir",
+    "lat": 1.33137952462,
+    "lng": 103.869055665,
+    "lines": [
+      {
+        "line": "NE",
+        "code": "NE10",
+        "color": "#9900aa",
+        "lineName": "North East Line"
+      }
+    ]
+  },
+  {
+    "id": "promenade",
+    "name": "Promenade",
+    "lat": 1.29289175425,
+    "lng": 103.8608918,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC4",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      },
+      {
+        "line": "CE",
+        "code": "CC4",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line Extension"
+      },
+      {
+        "line": "DT",
+        "code": "DT15",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "punggol",
+    "name": "Punggol",
+    "lat": 1.40454672779,
+    "lng": 103.902072638,
+    "lines": [
+      {
+        "line": "NE",
+        "code": "NE17",
+        "color": "#9900aa",
+        "lineName": "North East Line"
+      },
+      {
+        "line": "PG",
+        "code": "PTC",
+        "color": "#748477",
+        "lineName": "Punggol LRT"
+      }
+    ]
+  },
+  {
+    "id": "punggol-coast",
+    "name": "Punggol Coast",
+    "lat": 1.4136,
+    "lng": 103.9142,
+    "lines": [
+      {
+        "line": "NE",
+        "code": "NE18",
+        "color": "#9900aa",
+        "lineName": "North East Line"
+      }
+    ]
+  },
+  {
+    "id": "punggol-point",
+    "name": "Punggol Point",
+    "lat": 1.4168485205,
+    "lng": 103.90665079,
+    "lines": [
+      {
+        "line": "PG",
+        "code": "PE10",
+        "color": "#748477",
+        "lineName": "Punggol LRT"
+      }
+    ]
+  },
+  {
+    "id": "queenstown",
+    "name": "Queenstown",
+    "lat": 1.29455085173,
+    "lng": 103.806077156,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW19",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "raffles-place",
+    "name": "Raffles Place",
+    "lat": 1.28412561057,
+    "lng": 103.851461712,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS26",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      },
+      {
+        "line": "EW",
+        "code": "EW14",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "ranggung",
+    "name": "Ranggung",
+    "lat": 1.38423356067,
+    "lng": 103.89719467,
+    "lines": [
+      {
+        "line": "SK",
+        "code": "SE3",
+        "color": "#748477",
+        "lineName": "Sengkang LRT"
+      }
+    ]
+  },
+  {
+    "id": "redhill",
+    "name": "Redhill",
+    "lat": 1.28963453338,
+    "lng": 103.81674097,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW18",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "renjong",
+    "name": "Renjong",
+    "lat": 1.38672392153,
+    "lng": 103.890539427,
+    "lines": [
+      {
+        "line": "SK",
+        "code": "SE2",
+        "color": "#748477",
+        "lineName": "Sengkang LRT"
+      }
+    ]
+  },
+  {
+    "id": "riviera",
+    "name": "Riviera",
+    "lat": 1.39452449577,
+    "lng": 103.916166059,
+    "lines": [
+      {
+        "line": "PG",
+        "code": "PE4",
+        "color": "#748477",
+        "lineName": "Punggol LRT"
+      }
+    ]
+  },
+  {
+    "id": "rochor",
+    "name": "Rochor",
+    "lat": 1.30385218548,
+    "lng": 103.852769429,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT13",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "rumbia",
+    "name": "Rumbia",
+    "lat": 1.39146849684,
+    "lng": 103.905973595,
+    "lines": [
+      {
+        "line": "SK",
+        "code": "SE6",
+        "color": "#748477",
+        "lineName": "Sengkang LRT"
+      }
+    ]
+  },
+  {
+    "id": "sam-kee",
+    "name": "Sam Kee",
+    "lat": 1.40961268509,
+    "lng": 103.904831551,
+    "lines": [
+      {
+        "line": "PG",
+        "code": "PE9",
+        "color": "#748477",
+        "lineName": "Punggol LRT"
+      }
+    ]
+  },
+  {
+    "id": "samudera",
+    "name": "Samudera",
+    "lat": 1.41590171944,
+    "lng": 103.902156316,
+    "lines": [
+      {
+        "line": "PG",
+        "code": "PE11",
+        "color": "#748477",
+        "lineName": "Punggol LRT"
+      }
+    ]
+  },
+  {
+    "id": "segar",
+    "name": "Segar",
+    "lat": 1.38777213086,
+    "lng": 103.769598397,
+    "lines": [
+      {
+        "line": "BP",
+        "code": "BP12",
+        "color": "#748477",
+        "lineName": "Bukit Panjang LRT"
+      }
+    ]
+  },
+  {
+    "id": "sembawang",
+    "name": "Sembawang",
+    "lat": 1.44905082123,
+    "lng": 103.820046141,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS11",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "sengkang",
+    "name": "Sengkang",
+    "lat": 1.3916946261,
+    "lng": 103.895484694,
+    "lines": [
+      {
+        "line": "NE",
+        "code": "NE16",
+        "color": "#9900aa",
+        "lineName": "North East Line"
+      },
+      {
+        "line": "SK",
+        "code": "STC",
+        "color": "#748477",
+        "lineName": "Sengkang LRT"
+      }
+    ]
+  },
+  {
+    "id": "senja",
+    "name": "Senja",
+    "lat": 1.38269229582,
+    "lng": 103.762367226,
+    "lines": [
+      {
+        "line": "BP",
+        "code": "BP9",
+        "color": "#748477",
+        "lineName": "Bukit Panjang LRT"
+      }
+    ]
+  },
+  {
+    "id": "serangoon",
+    "name": "Serangoon",
+    "lat": 1.35063361483,
+    "lng": 103.872771661,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC13",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      },
+      {
+        "line": "NE",
+        "code": "NE12",
+        "color": "#9900aa",
+        "lineName": "North East Line"
+      }
+    ]
+  },
+  {
+    "id": "shenton-way",
+    "name": "Shenton Way",
+    "lat": 1.27773021973,
+    "lng": 103.850405709,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE19",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "siglap",
+    "name": "Siglap",
+    "lat": 1.30999484426,
+    "lng": 103.930297049,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE28",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "simei",
+    "name": "Simei",
+    "lat": 1.34320289493,
+    "lng": 103.953371694,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW3",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "sixth-avenue",
+    "name": "Sixth Avenue",
+    "lat": 1.33085764535,
+    "lng": 103.796906839,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT7",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "somerset",
+    "name": "Somerset",
+    "lat": 1.30025287693,
+    "lng": 103.839158337,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS23",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "soo-teck",
+    "name": "Soo Teck",
+    "lat": 1.40508858485,
+    "lng": 103.89720965,
+    "lines": [
+      {
+        "line": "PG",
+        "code": "PE14",
+        "color": "#748477",
+        "lineName": "Punggol LRT"
+      }
+    ]
+  },
+  {
+    "id": "south-view",
+    "name": "South View",
+    "lat": 1.38029828722,
+    "lng": 103.7452918,
+    "lines": [
+      {
+        "line": "BP",
+        "code": "BP1",
+        "color": "#748477",
+        "lineName": "Bukit Panjang LRT"
+      }
+    ]
+  },
+  {
+    "id": "springleaf",
+    "name": "Springleaf",
+    "lat": 1.39757790701,
+    "lng": 103.817799543,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE4",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "stadium",
+    "name": "Stadium",
+    "lat": 1.30281246884,
+    "lng": 103.875337711,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC6",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "stevens",
+    "name": "Stevens",
+    "lat": 1.32006555791,
+    "lng": 103.826024402,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT10",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      },
+      {
+        "line": "TE",
+        "code": "TE11",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "sumang",
+    "name": "Sumang",
+    "lat": 1.40845242565,
+    "lng": 103.898558454,
+    "lines": [
+      {
+        "line": "PG",
+        "code": "PE13",
+        "color": "#748477",
+        "lineName": "Punggol LRT"
+      }
+    ]
+  },
+  {
+    "id": "tai-seng",
+    "name": "Tai Seng",
+    "lat": 1.33510208536,
+    "lng": 103.888433013,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC11",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "tampines",
+    "name": "Tampines",
+    "lat": 1.35330153288,
+    "lng": 103.945144689,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW2",
+        "color": "#009645",
+        "lineName": "East West Line"
+      },
+      {
+        "line": "DT",
+        "code": "DT32",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "tampines-east",
+    "name": "Tampines East",
+    "lat": 1.35619148304,
+    "lng": 103.954634463,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT33",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "tampines-west",
+    "name": "Tampines West",
+    "lat": 1.3455153053,
+    "lng": 103.938436971,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT31",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "tan-kah-kee",
+    "name": "Tan Kah Kee",
+    "lat": 1.32555623509,
+    "lng": 103.807760305,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT8",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "tanah-merah",
+    "name": "Tanah Merah",
+    "lat": 1.32718713454,
+    "lng": 103.946346461,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW4",
+        "color": "#009645",
+        "lineName": "East West Line"
+      },
+      {
+        "line": "CG",
+        "code": "EW4",
+        "color": "#009645",
+        "lineName": "Changi Airport Branch"
+      }
+    ]
+  },
+  {
+    "id": "tanjong-katong",
+    "name": "Tanjong Katong",
+    "lat": 1.2992544132,
+    "lng": 103.897377093,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE25",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "tanjong-pagar",
+    "name": "Tanjong Pagar",
+    "lat": 1.27660448672,
+    "lng": 103.845952195,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW15",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "tanjong-rhu",
+    "name": "Tanjong Rhu",
+    "lat": 1.29721821836,
+    "lng": 103.873488357,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE23",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "teck-lee",
+    "name": "Teck Lee",
+    "lat": 1.41277089386,
+    "lng": 103.906577623,
+    "lines": [
+      {
+        "line": "PG",
+        "code": "PE8",
+        "color": "#748477",
+        "lineName": "Punggol LRT"
+      }
+    ]
+  },
+  {
+    "id": "teck-whye",
+    "name": "Teck Whye",
+    "lat": 1.37668467944,
+    "lng": 103.753712232,
+    "lines": [
+      {
+        "line": "BP",
+        "code": "BP3",
+        "color": "#748477",
+        "lineName": "Bukit Panjang LRT"
+      }
+    ]
+  },
+  {
+    "id": "telok-ayer",
+    "name": "Telok Ayer",
+    "lat": 1.28206894778,
+    "lng": 103.848648781,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT18",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "telok-blangah",
+    "name": "Telok Blangah",
+    "lat": 1.27070647762,
+    "lng": 103.809761611,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC28",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  },
+  {
+    "id": "thanggam",
+    "name": "Thanggam",
+    "lat": 1.3973181559,
+    "lng": 103.875635156,
+    "lines": [
+      {
+        "line": "SK",
+        "code": "SE11",
+        "color": "#748477",
+        "lineName": "Sengkang LRT"
+      }
+    ]
+  },
+  {
+    "id": "tiong-bahru",
+    "name": "Tiong Bahru",
+    "lat": 1.28619457933,
+    "lng": 103.82699894,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW17",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "toa-payoh",
+    "name": "Toa Payoh",
+    "lat": 1.33262898712,
+    "lng": 103.847501764,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS19",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "tongkang",
+    "name": "Tongkang",
+    "lat": 1.38934795386,
+    "lng": 103.88584415,
+    "lines": [
+      {
+        "line": "SK",
+        "code": "SE1",
+        "color": "#748477",
+        "lineName": "Sengkang LRT"
+      }
+    ]
+  },
+  {
+    "id": "tuas-crescent",
+    "name": "Tuas Crescent",
+    "lat": 1.32102655324,
+    "lng": 103.649075477,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW31",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "tuas-link",
+    "name": "Tuas Link",
+    "lat": 1.34086609564,
+    "lng": 103.636985602,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW33",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "tuas-west-road",
+    "name": "Tuas West Road",
+    "lat": 1.32998908905,
+    "lng": 103.639614056,
+    "lines": [
+      {
+        "line": "EW",
+        "code": "EW32",
+        "color": "#009645",
+        "lineName": "East West Line"
+      }
+    ]
+  },
+  {
+    "id": "ubi",
+    "name": "Ubi",
+    "lat": 1.3299746288,
+    "lng": 103.899226655,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT27",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "upper-changi",
+    "name": "Upper Changi",
+    "lat": 1.34173748389,
+    "lng": 103.961471789,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT34",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "upper-thomson",
+    "name": "Upper Thomson",
+    "lat": 1.35441643373,
+    "lng": 103.832898468,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE8",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "woodlands",
+    "name": "Woodlands",
+    "lat": 1.43696824734,
+    "lng": 103.786462452,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS9",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      },
+      {
+        "line": "TE",
+        "code": "TE2",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "woodlands-north",
+    "name": "Woodlands North",
+    "lat": 1.44746541049,
+    "lng": 103.786500735,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE1",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "woodlands-south",
+    "name": "Woodlands South",
+    "lat": 1.42743341606,
+    "lng": 103.793244602,
+    "lines": [
+      {
+        "line": "TE",
+        "code": "TE3",
+        "color": "#9D5B25",
+        "lineName": "Thomson-East Coast Line"
+      }
+    ]
+  },
+  {
+    "id": "woodleigh",
+    "name": "Woodleigh",
+    "lat": 1.33919004553,
+    "lng": 103.870818309,
+    "lines": [
+      {
+        "line": "NE",
+        "code": "NE11",
+        "color": "#9900aa",
+        "lineName": "North East Line"
+      }
+    ]
+  },
+  {
+    "id": "xilin",
+    "name": "Xilin",
+    "lat": 1.32889914133,
+    "lng": 103.965218532,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT36",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
+      }
+    ]
+  },
+  {
+    "id": "yew-tee",
+    "name": "Yew Tee",
+    "lat": 1.39753501779,
+    "lng": 103.747405114,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS5",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "yio-chu-kang",
+    "name": "Yio Chu Kang",
+    "lat": 1.38175604611,
+    "lng": 103.84494729,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS15",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "yishun",
+    "name": "Yishun",
+    "lat": 1.42944308081,
+    "lng": 103.835005046,
+    "lines": [
+      {
+        "line": "NS",
+        "code": "NS13",
+        "color": "#d42e12",
+        "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "one-north",
+    "name": "one-north",
+    "lat": 1.29975987859,
+    "lng": 103.787457508,
+    "lines": [
+      {
+        "line": "CC",
+        "code": "CC23",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line"
+      }
+    ]
+  }
+]
