@@ -33,6 +33,13 @@ branches.
   Châtelet), click any station for details, toggle line visibility
   (branches follow their parent line), pan/zoom with full touch support
   (pinch-to-zoom, clamped panning).
+- Station details show estimated first/last train times per line
+  (Singapore only for now). These are derived from line topology and
+  typical operating hours by `scripts/generate_timings.py` — the exact
+  per-station schedules published by SMRT/SBS Transit are not available
+  as machine-readable open data. The UI reads
+  `src/data/singapore/timings.json` as-is, so real scraped data can be
+  swapped in without code changes.
 
 ## Running locally
 

@@ -24,11 +24,22 @@ export interface LineMeta {
   thin?: boolean;
 }
 
+export interface LineTiming {
+  first: string;
+  last: string;
+}
+
+/** stationId -> lineId -> first/last arrival times */
+export type NetworkTimings = Record<string, Record<string, LineTiming>>;
+
 export interface Network {
   id: string;
   name: string;
   stations: Station[];
   lines: LineMeta[];
+  timings?: NetworkTimings;
+  /** Shown next to timings, e.g. to flag estimated data. */
+  timingsNote?: string;
 }
 
 const EARTH_RADIUS_M = 6371000;

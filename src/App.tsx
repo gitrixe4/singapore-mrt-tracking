@@ -169,6 +169,30 @@ export default function App() {
                   </span>
                 ))}
               </div>
+              {network.timings?.[selectedStation.id] && (
+                <div className="timings">
+                  <h4>First / last train</h4>
+                  <ul>
+                    {selectedStation.lines.map((l) => {
+                      const t = network.timings![selectedStation.id][l.line];
+                      if (!t) return null;
+                      return (
+                        <li key={l.line}>
+                          <span className="code-pill" style={{ background: l.color }} title={l.lineName}>
+                            {l.code}
+                          </span>
+                          <span className="timing-times">
+                            First <strong>{t.first}</strong> · Last <strong>{t.last}</strong>
+                          </span>
+                        </li>
+                      );
+                    })}
+                  </ul>
+                  {network.timingsNote && (
+                    <p className="timings-note">{network.timingsNote}</p>
+                  )}
+                </div>
+              )}
               {position && (
                 <p className="distance-line">
                   {formatDistance(

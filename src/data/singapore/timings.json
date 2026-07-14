@@ -1,0 +1,1244 @@
+{
+  "admiralty": {
+    "NS": {
+      "first": "05:50",
+      "last": "00:15"
+    }
+  },
+  "aljunied": {
+    "EW": {
+      "first": "05:50",
+      "last": "00:30"
+    }
+  },
+  "ang-mo-kio": {
+    "NS": {
+      "first": "06:00",
+      "last": "00:05"
+    }
+  },
+  "bakau": {
+    "SK": {
+      "first": "05:38",
+      "last": "23:40"
+    }
+  },
+  "bangkit": {
+    "BP": {
+      "first": "05:38",
+      "last": "23:39"
+    }
+  },
+  "bartley": {
+    "CC": {
+      "first": "05:58",
+      "last": "00:25"
+    }
+  },
+  "bayfront": {
+    "CC": {
+      "first": "05:32",
+      "last": "00:50"
+    },
+    "DT": {
+      "first": "06:05",
+      "last": "00:20"
+    }
+  },
+  "bayshore": {
+    "TE": {
+      "first": "05:32",
+      "last": "00:35"
+    }
+  },
+  "beauty-world": {
+    "DT": {
+      "first": "05:38",
+      "last": "00:48"
+    }
+  },
+  "bedok": {
+    "EW": {
+      "first": "05:40",
+      "last": "00:40"
+    }
+  },
+  "bedok-north": {
+    "DT": {
+      "first": "05:48",
+      "last": "00:38"
+    }
+  },
+  "bedok-reservoir": {
+    "DT": {
+      "first": "05:45",
+      "last": "00:40"
+    }
+  },
+  "bedok-south": {
+    "TE": {
+      "first": "05:30",
+      "last": "00:38"
+    }
+  },
+  "bencoolen": {
+    "DT": {
+      "first": "06:08",
+      "last": "00:18"
+    }
+  },
+  "bendemeer": {
+    "DT": {
+      "first": "06:02",
+      "last": "00:22"
+    }
+  },
+  "bishan": {
+    "CC": {
+      "first": "06:05",
+      "last": "00:18"
+    },
+    "NS": {
+      "first": "05:58",
+      "last": "00:08"
+    }
+  },
+  "boon-keng": {
+    "NE": {
+      "first": "05:48",
+      "last": "23:52"
+    }
+  },
+  "boon-lay": {
+    "EW": {
+      "first": "05:45",
+      "last": "00:35"
+    }
+  },
+  "botanic-gardens": {
+    "CC": {
+      "first": "06:10",
+      "last": "00:12"
+    },
+    "DT": {
+      "first": "05:48",
+      "last": "00:38"
+    }
+  },
+  "braddell": {
+    "NS": {
+      "first": "05:55",
+      "last": "00:10"
+    }
+  },
+  "bras-basah": {
+    "CC": {
+      "first": "05:32",
+      "last": "00:50"
+    }
+  },
+  "bright-hill": {
+    "TE": {
+      "first": "05:45",
+      "last": "00:22"
+    }
+  },
+  "buangkok": {
+    "NE": {
+      "first": "05:38",
+      "last": "00:02"
+    }
+  },
+  "bugis": {
+    "DT": {
+      "first": "06:00",
+      "last": "00:25"
+    },
+    "EW": {
+      "first": "05:58",
+      "last": "00:22"
+    }
+  },
+  "bukit-batok": {
+    "NS": {
+      "first": "05:32",
+      "last": "00:32"
+    }
+  },
+  "bukit-gombak": {
+    "NS": {
+      "first": "05:35",
+      "last": "00:30"
+    }
+  },
+  "bukit-panjang": {
+    "BP": {
+      "first": "05:38",
+      "last": "23:39"
+    },
+    "DT": {
+      "first": "05:30",
+      "last": "00:55"
+    }
+  },
+  "buona-vista": {
+    "CC": {
+      "first": "06:02",
+      "last": "00:20"
+    },
+    "EW": {
+      "first": "06:00",
+      "last": "00:20"
+    }
+  },
+  "caldecott": {
+    "CC": {
+      "first": "06:10",
+      "last": "00:12"
+    },
+    "TE": {
+      "first": "05:50",
+      "last": "00:18"
+    }
+  },
+  "canberra": {
+    "NS": {
+      "first": "05:55",
+      "last": "00:10"
+    }
+  },
+  "cantonment": {
+    "CC": {
+      "first": "05:40",
+      "last": "00:42"
+    }
+  },
+  "cashew": {
+    "DT": {
+      "first": "05:32",
+      "last": "00:52"
+    }
+  },
+  "changi-airport": {
+    "CG": {
+      "first": "05:30",
+      "last": "23:35"
+    }
+  },
+  "cheng-lim": {
+    "SK": {
+      "first": "05:39",
+      "last": "23:40"
+    }
+  },
+  "chinatown": {
+    "DT": {
+      "first": "06:12",
+      "last": "00:12"
+    },
+    "NE": {
+      "first": "05:35",
+      "last": "00:05"
+    }
+  },
+  "chinese-garden": {
+    "EW": {
+      "first": "05:50",
+      "last": "00:30"
+    }
+  },
+  "choa-chu-kang": {
+    "BP": {
+      "first": "05:30",
+      "last": "23:39"
+    },
+    "NS": {
+      "first": "05:38",
+      "last": "00:28"
+    }
+  },
+  "city-hall": {
+    "EW": {
+      "first": "06:00",
+      "last": "00:20"
+    },
+    "NS": {
+      "first": "05:38",
+      "last": "00:28"
+    }
+  },
+  "clarke-quay": {
+    "NE": {
+      "first": "05:38",
+      "last": "00:02"
+    }
+  },
+  "clementi": {
+    "EW": {
+      "first": "05:55",
+      "last": "00:25"
+    }
+  },
+  "commonwealth": {
+    "EW": {
+      "first": "06:02",
+      "last": "00:18"
+    }
+  },
+  "compassvale": {
+    "SK": {
+      "first": "05:40",
+      "last": "23:40"
+    }
+  },
+  "coral-edge": {
+    "PG": {
+      "first": "05:34",
+      "last": "23:40"
+    }
+  },
+  "cove": {
+    "PG": {
+      "first": "05:32",
+      "last": "23:40"
+    }
+  },
+  "dakota": {
+    "CC": {
+      "first": "05:48",
+      "last": "00:35"
+    }
+  },
+  "damai": {
+    "PG": {
+      "first": "05:40",
+      "last": "23:40"
+    }
+  },
+  "dhoby-ghaut": {
+    "CC": {
+      "first": "05:30",
+      "last": "00:52"
+    },
+    "NE": {
+      "first": "05:40",
+      "last": "00:00"
+    },
+    "NS": {
+      "first": "05:40",
+      "last": "00:25"
+    }
+  },
+  "dover": {
+    "EW": {
+      "first": "05:58",
+      "last": "00:22"
+    }
+  },
+  "downtown": {
+    "DT": {
+      "first": "06:08",
+      "last": "00:18"
+    }
+  },
+  "esplanade": {
+    "CC": {
+      "first": "05:35",
+      "last": "00:48"
+    }
+  },
+  "eunos": {
+    "EW": {
+      "first": "05:45",
+      "last": "00:35"
+    }
+  },
+  "expo": {
+    "CG": {
+      "first": "05:32",
+      "last": "23:32"
+    },
+    "DT": {
+      "first": "05:32",
+      "last": "00:52"
+    }
+  },
+  "fajar": {
+    "BP": {
+      "first": "05:34",
+      "last": "23:39"
+    }
+  },
+  "farmway": {
+    "SK": {
+      "first": "05:38",
+      "last": "23:40"
+    }
+  },
+  "farrer-park": {
+    "NE": {
+      "first": "05:45",
+      "last": "23:55"
+    }
+  },
+  "farrer-road": {
+    "CC": {
+      "first": "06:08",
+      "last": "00:15"
+    }
+  },
+  "fernvale": {
+    "SK": {
+      "first": "05:32",
+      "last": "23:40"
+    }
+  },
+  "fort-canning": {
+    "DT": {
+      "first": "06:10",
+      "last": "00:15"
+    }
+  },
+  "gardens-by-the-bay": {
+    "TE": {
+      "first": "05:50",
+      "last": "00:18"
+    }
+  },
+  "geylang-bahru": {
+    "DT": {
+      "first": "06:00",
+      "last": "00:25"
+    }
+  },
+  "great-world": {
+    "TE": {
+      "first": "06:02",
+      "last": "00:05"
+    }
+  },
+  "gul-circle": {
+    "EW": {
+      "first": "05:38",
+      "last": "00:42"
+    }
+  },
+  "harbourfront": {
+    "CC": {
+      "first": "05:45",
+      "last": "00:38"
+    },
+    "NE": {
+      "first": "05:30",
+      "last": "00:10"
+    }
+  },
+  "havelock": {
+    "TE": {
+      "first": "06:02",
+      "last": "00:05"
+    }
+  },
+  "haw-par-villa": {
+    "CC": {
+      "first": "05:55",
+      "last": "00:28"
+    }
+  },
+  "hillview": {
+    "DT": {
+      "first": "05:35",
+      "last": "00:50"
+    }
+  },
+  "holland-village": {
+    "CC": {
+      "first": "06:05",
+      "last": "00:18"
+    }
+  },
+  "hougang": {
+    "NE": {
+      "first": "05:40",
+      "last": "00:00"
+    }
+  },
+  "jalan-besar": {
+    "DT": {
+      "first": "06:05",
+      "last": "00:20"
+    }
+  },
+  "jelapang": {
+    "BP": {
+      "first": "05:33",
+      "last": "23:39"
+    }
+  },
+  "joo-koon": {
+    "EW": {
+      "first": "05:40",
+      "last": "00:40"
+    }
+  },
+  "jurong-east": {
+    "EW": {
+      "first": "05:52",
+      "last": "00:28"
+    },
+    "NS": {
+      "first": "05:30",
+      "last": "00:35"
+    }
+  },
+  "kadaloor": {
+    "PG": {
+      "first": "05:38",
+      "last": "23:40"
+    }
+  },
+  "kaki-bukit": {
+    "DT": {
+      "first": "05:50",
+      "last": "00:35"
+    }
+  },
+  "kallang": {
+    "EW": {
+      "first": "05:52",
+      "last": "00:28"
+    }
+  },
+  "kangkar": {
+    "SK": {
+      "first": "05:36",
+      "last": "23:40"
+    }
+  },
+  "katong-park": {
+    "TE": {
+      "first": "05:45",
+      "last": "00:22"
+    }
+  },
+  "keat-hong": {
+    "BP": {
+      "first": "05:33",
+      "last": "23:39"
+    }
+  },
+  "kembangan": {
+    "EW": {
+      "first": "05:42",
+      "last": "00:38"
+    }
+  },
+  "kent-ridge": {
+    "CC": {
+      "first": "05:58",
+      "last": "00:25"
+    }
+  },
+  "keppel": {
+    "CC": {
+      "first": "05:42",
+      "last": "00:40"
+    }
+  },
+  "khatib": {
+    "NS": {
+      "first": "06:00",
+      "last": "00:05"
+    }
+  },
+  "king-albert-park": {
+    "DT": {
+      "first": "05:40",
+      "last": "00:45"
+    }
+  },
+  "kovan": {
+    "NE": {
+      "first": "05:42",
+      "last": "23:58"
+    }
+  },
+  "kranji": {
+    "NS": {
+      "first": "05:42",
+      "last": "00:22"
+    }
+  },
+  "kupang": {
+    "SK": {
+      "first": "05:36",
+      "last": "23:40"
+    }
+  },
+  "labrador-park": {
+    "CC": {
+      "first": "05:50",
+      "last": "00:32"
+    }
+  },
+  "lakeside": {
+    "EW": {
+      "first": "05:48",
+      "last": "00:32"
+    }
+  },
+  "lavender": {
+    "EW": {
+      "first": "05:55",
+      "last": "00:25"
+    }
+  },
+  "layar": {
+    "SK": {
+      "first": "05:33",
+      "last": "23:40"
+    }
+  },
+  "lentor": {
+    "TE": {
+      "first": "05:40",
+      "last": "00:28"
+    }
+  },
+  "little-india": {
+    "DT": {
+      "first": "05:55",
+      "last": "00:30"
+    },
+    "NE": {
+      "first": "05:42",
+      "last": "23:58"
+    }
+  },
+  "lorong-chuan": {
+    "CC": {
+      "first": "06:02",
+      "last": "00:20"
+    }
+  },
+  "macpherson": {
+    "CC": {
+      "first": "05:52",
+      "last": "00:30"
+    },
+    "DT": {
+      "first": "05:55",
+      "last": "00:30"
+    }
+  },
+  "marina-bay": {
+    "CC": {
+      "first": "05:35",
+      "last": "00:48"
+    },
+    "NS": {
+      "first": "05:32",
+      "last": "00:32"
+    },
+    "TE": {
+      "first": "05:52",
+      "last": "00:15"
+    }
+  },
+  "marina-south-pier": {
+    "NS": {
+      "first": "05:30",
+      "last": "00:35"
+    }
+  },
+  "marine-parade": {
+    "TE": {
+      "first": "05:40",
+      "last": "00:28"
+    }
+  },
+  "marine-terrace": {
+    "TE": {
+      "first": "05:38",
+      "last": "00:30"
+    }
+  },
+  "marsiling": {
+    "NS": {
+      "first": "05:45",
+      "last": "00:20"
+    }
+  },
+  "marymount": {
+    "CC": {
+      "first": "06:08",
+      "last": "00:15"
+    }
+  },
+  "mattar": {
+    "DT": {
+      "first": "05:58",
+      "last": "00:28"
+    }
+  },
+  "maxwell": {
+    "TE": {
+      "first": "05:58",
+      "last": "00:10"
+    }
+  },
+  "mayflower": {
+    "TE": {
+      "first": "05:42",
+      "last": "00:25"
+    }
+  },
+  "meridian": {
+    "PG": {
+      "first": "05:33",
+      "last": "23:40"
+    }
+  },
+  "mountbatten": {
+    "CC": {
+      "first": "05:45",
+      "last": "00:38"
+    }
+  },
+  "napier": {
+    "TE": {
+      "first": "05:55",
+      "last": "00:12"
+    }
+  },
+  "newton": {
+    "DT": {
+      "first": "05:52",
+      "last": "00:32"
+    },
+    "NS": {
+      "first": "05:48",
+      "last": "00:18"
+    }
+  },
+  "nibong": {
+    "PG": {
+      "first": "05:34",
+      "last": "23:40"
+    }
+  },
+  "nicoll-highway": {
+    "CC": {
+      "first": "05:40",
+      "last": "00:42"
+    }
+  },
+  "novena": {
+    "NS": {
+      "first": "05:50",
+      "last": "00:15"
+    }
+  },
+  "oasis": {
+    "PG": {
+      "first": "05:39",
+      "last": "23:40"
+    }
+  },
+  "one-north": {
+    "CC": {
+      "first": "06:00",
+      "last": "00:22"
+    }
+  },
+  "orchard": {
+    "NS": {
+      "first": "05:45",
+      "last": "00:20"
+    },
+    "TE": {
+      "first": "06:00",
+      "last": "00:08"
+    }
+  },
+  "orchard-boulevard": {
+    "TE": {
+      "first": "05:58",
+      "last": "00:10"
+    }
+  },
+  "outram-park": {
+    "EW": {
+      "first": "06:08",
+      "last": "00:12"
+    },
+    "NE": {
+      "first": "05:32",
+      "last": "00:08"
+    },
+    "TE": {
+      "first": "06:00",
+      "last": "00:08"
+    }
+  },
+  "pasir-panjang": {
+    "CC": {
+      "first": "05:52",
+      "last": "00:30"
+    }
+  },
+  "pasir-ris": {
+    "EW": {
+      "first": "05:30",
+      "last": "00:50"
+    }
+  },
+  "paya-lebar": {
+    "CC": {
+      "first": "05:50",
+      "last": "00:32"
+    },
+    "EW": {
+      "first": "05:48",
+      "last": "00:32"
+    }
+  },
+  "pending": {
+    "BP": {
+      "first": "05:39",
+      "last": "23:39"
+    }
+  },
+  "petir": {
+    "BP": {
+      "first": "05:39",
+      "last": "23:39"
+    }
+  },
+  "phoenix": {
+    "BP": {
+      "first": "05:36",
+      "last": "23:39"
+    }
+  },
+  "pioneer": {
+    "EW": {
+      "first": "05:42",
+      "last": "00:38"
+    }
+  },
+  "potong-pasir": {
+    "NE": {
+      "first": "05:50",
+      "last": "23:50"
+    }
+  },
+  "prince-edward-road": {
+    "CC": {
+      "first": "05:38",
+      "last": "00:45"
+    }
+  },
+  "promenade": {
+    "CC": {
+      "first": "05:30",
+      "last": "00:52"
+    },
+    "DT": {
+      "first": "06:02",
+      "last": "00:22"
+    }
+  },
+  "punggol": {
+    "NE": {
+      "first": "05:32",
+      "last": "00:08"
+    },
+    "PG": {
+      "first": "05:30",
+      "last": "23:40"
+    }
+  },
+  "punggol-coast": {
+    "NE": {
+      "first": "05:30",
+      "last": "00:10"
+    }
+  },
+  "punggol-point": {
+    "PG": {
+      "first": "05:38",
+      "last": "23:40"
+    }
+  },
+  "queenstown": {
+    "EW": {
+      "first": "06:05",
+      "last": "00:15"
+    }
+  },
+  "raffles-place": {
+    "EW": {
+      "first": "06:02",
+      "last": "00:18"
+    },
+    "NS": {
+      "first": "05:35",
+      "last": "00:30"
+    }
+  },
+  "ranggung": {
+    "SK": {
+      "first": "05:34",
+      "last": "23:40"
+    }
+  },
+  "redhill": {
+    "EW": {
+      "first": "06:08",
+      "last": "00:12"
+    }
+  },
+  "renjong": {
+    "SK": {
+      "first": "05:33",
+      "last": "23:40"
+    }
+  },
+  "riviera": {
+    "PG": {
+      "first": "05:36",
+      "last": "23:40"
+    }
+  },
+  "rochor": {
+    "DT": {
+      "first": "05:58",
+      "last": "00:28"
+    }
+  },
+  "rumbia": {
+    "SK": {
+      "first": "05:39",
+      "last": "23:40"
+    }
+  },
+  "sam-kee": {
+    "PG": {
+      "first": "05:39",
+      "last": "23:40"
+    }
+  },
+  "samudera": {
+    "PG": {
+      "first": "05:36",
+      "last": "23:40"
+    }
+  },
+  "segar": {
+    "BP": {
+      "first": "05:32",
+      "last": "23:39"
+    }
+  },
+  "sembawang": {
+    "NS": {
+      "first": "05:52",
+      "last": "00:12"
+    }
+  },
+  "sengkang": {
+    "NE": {
+      "first": "05:35",
+      "last": "00:05"
+    },
+    "SK": {
+      "first": "05:30",
+      "last": "23:40"
+    }
+  },
+  "senja": {
+    "BP": {
+      "first": "05:36",
+      "last": "23:39"
+    }
+  },
+  "serangoon": {
+    "CC": {
+      "first": "06:00",
+      "last": "00:22"
+    },
+    "NE": {
+      "first": "05:45",
+      "last": "23:55"
+    }
+  },
+  "shenton-way": {
+    "TE": {
+      "first": "05:55",
+      "last": "00:12"
+    }
+  },
+  "siglap": {
+    "TE": {
+      "first": "05:35",
+      "last": "00:32"
+    }
+  },
+  "simei": {
+    "EW": {
+      "first": "05:35",
+      "last": "00:45"
+    }
+  },
+  "sixth-avenue": {
+    "DT": {
+      "first": "05:42",
+      "last": "00:42"
+    }
+  },
+  "somerset": {
+    "NS": {
+      "first": "05:42",
+      "last": "00:22"
+    }
+  },
+  "soo-teck": {
+    "PG": {
+      "first": "05:32",
+      "last": "23:40"
+    }
+  },
+  "south-view": {
+    "BP": {
+      "first": "05:32",
+      "last": "23:39"
+    }
+  },
+  "springleaf": {
+    "TE": {
+      "first": "05:38",
+      "last": "00:30"
+    }
+  },
+  "stadium": {
+    "CC": {
+      "first": "05:42",
+      "last": "00:40"
+    }
+  },
+  "stevens": {
+    "DT": {
+      "first": "05:50",
+      "last": "00:35"
+    },
+    "TE": {
+      "first": "05:52",
+      "last": "00:15"
+    }
+  },
+  "sumang": {
+    "PG": {
+      "first": "05:33",
+      "last": "23:40"
+    }
+  },
+  "tai-seng": {
+    "CC": {
+      "first": "05:55",
+      "last": "00:28"
+    }
+  },
+  "tampines": {
+    "DT": {
+      "first": "05:40",
+      "last": "00:45"
+    },
+    "EW": {
+      "first": "05:32",
+      "last": "00:48"
+    }
+  },
+  "tampines-east": {
+    "DT": {
+      "first": "05:38",
+      "last": "00:48"
+    }
+  },
+  "tampines-west": {
+    "DT": {
+      "first": "05:42",
+      "last": "00:42"
+    }
+  },
+  "tan-kah-kee": {
+    "DT": {
+      "first": "05:45",
+      "last": "00:40"
+    }
+  },
+  "tanah-merah": {
+    "CG": {
+      "first": "05:30",
+      "last": "23:35"
+    },
+    "EW": {
+      "first": "05:38",
+      "last": "00:42"
+    }
+  },
+  "tanjong-katong": {
+    "TE": {
+      "first": "05:42",
+      "last": "00:25"
+    }
+  },
+  "tanjong-pagar": {
+    "EW": {
+      "first": "06:05",
+      "last": "00:15"
+    }
+  },
+  "tanjong-rhu": {
+    "TE": {
+      "first": "05:48",
+      "last": "00:20"
+    }
+  },
+  "teck-lee": {
+    "PG": {
+      "first": "05:40",
+      "last": "23:40"
+    }
+  },
+  "teck-whye": {
+    "BP": {
+      "first": "05:34",
+      "last": "23:39"
+    }
+  },
+  "telok-ayer": {
+    "DT": {
+      "first": "06:10",
+      "last": "00:15"
+    }
+  },
+  "telok-blangah": {
+    "CC": {
+      "first": "05:48",
+      "last": "00:35"
+    }
+  },
+  "thanggam": {
+    "SK": {
+      "first": "05:34",
+      "last": "23:40"
+    }
+  },
+  "tiong-bahru": {
+    "EW": {
+      "first": "06:10",
+      "last": "00:10"
+    }
+  },
+  "toa-payoh": {
+    "NS": {
+      "first": "05:52",
+      "last": "00:12"
+    }
+  },
+  "tongkang": {
+    "SK": {
+      "first": "05:32",
+      "last": "23:40"
+    }
+  },
+  "tuas-crescent": {
+    "EW": {
+      "first": "05:35",
+      "last": "00:45"
+    }
+  },
+  "tuas-link": {
+    "EW": {
+      "first": "05:30",
+      "last": "00:50"
+    }
+  },
+  "tuas-west-road": {
+    "EW": {
+      "first": "05:32",
+      "last": "00:48"
+    }
+  },
+  "ubi": {
+    "DT": {
+      "first": "05:52",
+      "last": "00:32"
+    }
+  },
+  "upper-changi": {
+    "DT": {
+      "first": "05:35",
+      "last": "00:50"
+    }
+  },
+  "upper-thomson": {
+    "TE": {
+      "first": "05:48",
+      "last": "00:20"
+    }
+  },
+  "woodlands": {
+    "NS": {
+      "first": "05:48",
+      "last": "00:18"
+    },
+    "TE": {
+      "first": "05:32",
+      "last": "00:35"
+    }
+  },
+  "woodlands-north": {
+    "TE": {
+      "first": "05:30",
+      "last": "00:38"
+    }
+  },
+  "woodlands-south": {
+    "TE": {
+      "first": "05:35",
+      "last": "00:32"
+    }
+  },
+  "woodleigh": {
+    "NE": {
+      "first": "05:48",
+      "last": "23:52"
+    }
+  },
+  "xilin": {
+    "DT": {
+      "first": "05:30",
+      "last": "00:55"
+    }
+  },
+  "yew-tee": {
+    "NS": {
+      "first": "05:40",
+      "last": "00:25"
+    }
+  },
+  "yio-chu-kang": {
+    "NS": {
+      "first": "06:02",
+      "last": "00:02"
+    }
+  },
+  "yishun": {
+    "NS": {
+      "first": "05:58",
+      "last": "00:08"
+    }
+  }
+}
