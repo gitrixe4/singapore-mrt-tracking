@@ -115,17 +115,13 @@
       "pasir-panjang",
       "labrador-park",
       "telok-blangah",
-      "harbourfront"
-    ]
-  },
-  {
-    "id": "CE",
-    "name": "Circle Line Extension",
-    "color": "#fa9e0d",
-    "path": [
-      "promenade",
+      "harbourfront",
+      "keppel",
+      "cantonment",
+      "prince-edward-road",
+      "marina-bay",
       "bayfront",
-      "marina-bay"
+      "promenade"
     ]
   },
   {

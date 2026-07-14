@@ -6,9 +6,10 @@ live GPS geolocation to find the station nearest to you.
 ## Features
 
 - All operating MRT lines (North South, East West, Circle, North East,
-  Downtown, Thomson-East Coast) plus the Changi Airport and Circle Line
-  Extension branches, and all three LRT systems (Bukit Panjang, Sengkang,
-  Punggol) — 182 stations total.
+  Downtown, Thomson-East Coast) plus the Changi Airport branch, and all
+  three LRT systems (Bukit Panjang, Sengkang, Punggol) — 185 stations
+  total, including the Circle Line Stage 6 stations (Keppel, Cantonment,
+  Prince Edward Road) that closed the loop in July 2026.
 - Map is plotted from real station coordinates (equirectangular projection,
   latitude-corrected), so it's geographically accurate, not just a stylized
   diagram — your GPS position lands in the right place relative to stations.
@@ -45,7 +46,9 @@ Station coordinates are sourced from a public geocoded dataset
 ([xkjyeah/MRT-and-LRT-Stations](https://github.com/xkjyeah/MRT-and-LRT-Stations))
 cross-referenced with known line topology and official station codes
 (`src/data/stations.json`, `src/data/lines.json`). A few newer/unlisted
-stations were added manually (e.g. Havelock, Punggol Coast).
+stations were added manually (e.g. Havelock, Punggol Coast), and the
+Circle Line Stage 6 stations use coordinates from
+[cheeaun/sgraildata](https://github.com/cheeaun/sgraildata).
 
 Known limitations:
 - Coordinates are accurate to roughly building/station-entrance level, not

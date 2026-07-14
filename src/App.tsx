@@ -10,13 +10,12 @@ import "./App.css";
 const stations = stationsData as Station[];
 const lines = linesData as LineMeta[];
 
-const MAIN_LINES = lines.filter((l) => !["CG", "CE"].includes(l.id));
+const MAIN_LINES = lines.filter((l) => l.id !== "CG");
 
 // Branch segments drawn as separate paths but belonging to a parent line;
 // they must show/hide together with it.
 const LINE_BRANCHES: Record<string, string[]> = {
   EW: ["CG"], // Changi Airport branch
-  CC: ["CE"], // Marina Bay extension
 };
 
 export default function App() {

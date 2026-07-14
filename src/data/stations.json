@@ -90,10 +90,10 @@
     "lng": 103.859079765,
     "lines": [
       {
-        "line": "CE",
-        "code": "CE1",
+        "line": "CC",
+        "code": "CC34",
         "color": "#fa9e0d",
-        "lineName": "Circle Line Extension"
+        "lineName": "Circle Line"
       },
       {
         "line": "DT",
@@ -458,6 +458,20 @@
         "code": "NS12",
         "color": "#d42e12",
         "lineName": "North South Line"
+      }
+    ]
+  },
+  {
+    "id": "cantonment",
+    "name": "Cantonment",
+    "lat": 1.273115,
+    "lng": 103.837028,
+    "lines": [
+      {
+        "line": "CC",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line",
+        "code": "CC31"
       }
     ]
   },
@@ -1196,6 +1210,20 @@
     ]
   },
   {
+    "id": "keppel",
+    "name": "Keppel",
+    "lat": 1.27043,
+    "lng": 103.830693,
+    "lines": [
+      {
+        "line": "CC",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line",
+        "code": "CC30"
+      }
+    ]
+  },
+  {
     "id": "khatib",
     "name": "Khatib",
     "lat": 1.41738337015,
@@ -1402,10 +1430,10 @@
         "lineName": "North South Line"
       },
       {
-        "line": "CE",
-        "code": "CE2",
+        "line": "CC",
+        "code": "CC33",
         "color": "#fa9e0d",
-        "lineName": "Circle Line Extension"
+        "lineName": "Circle Line"
       },
       {
         "line": "TE",
@@ -1820,6 +1848,20 @@
         "code": "NE10",
         "color": "#9900aa",
         "lineName": "North East Line"
+      }
+    ]
+  },
+  {
+    "id": "prince-edward-road",
+    "name": "Prince Edward Road",
+    "lat": 1.273316,
+    "lng": 103.847408,
+    "lines": [
+      {
+        "line": "CC",
+        "color": "#fa9e0d",
+        "lineName": "Circle Line",
+        "code": "CC32"
       }
     ]
   },
