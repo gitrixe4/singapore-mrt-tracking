@@ -24,6 +24,7 @@ export default function App() {
   const [query, setQuery] = useState("");
   const [selectedStationId, setSelectedStationId] = useState<string | null>(null);
   const [hiddenLineIds, setHiddenLineIds] = useState<Set<string>>(new Set());
+  const [mode, setMode] = useState<"transit" | "heritage">("transit");
   const { status, position, error, start, stop } = useGeolocation();
 
   const switchNetwork = (id: string) => {
@@ -32,6 +33,7 @@ export default function App() {
     setSelectedStationId(null);
     setHiddenLineIds(new Set());
     setQuery("");
+    setMode("transit");
   };
 
   // Legend shows top-level lines; branch segments follow their parent.
@@ -128,6 +130,27 @@ export default function App() {
 
       <div className="app-body">
         <aside className="sidebar">
+          {network.history && (
+            <div className="mode-toggle" role="tablist" aria-label="Station info mode">
+              <button
+                role="tab"
+                aria-selected={mode === "transit"}
+                className={mode === "transit" ? "active" : ""}
+                onClick={() => setMode("transit")}
+              >
+                🚇 Transit
+              </button>
+              <button
+                role="tab"
+                aria-selected={mode === "heritage"}
+                className={mode === "heritage" ? "active" : ""}
+                onClick={() => setMode("heritage")}
+              >
+                🏛 Heritage
+              </button>
+            </div>
+          )}
+
           <div className="search-box">
             <input
               type="text"
@@ -169,7 +192,22 @@ export default function App() {
                   </span>
                 ))}
               </div>
-              {network.timings?.[selectedStation.id] && (
+              {mode === "heritage" && network.history?.[selectedStation.id] && (
+                <div className="heritage">
+                  <p className="heritage-opened">
+                    Opened <strong>{network.history[selectedStation.id].opened}</strong>
+                  </p>
+                  {network.history[selectedStation.id].origin && (
+                    <p className="heritage-origin">
+                      {network.history[selectedStation.id].origin}
+                    </p>
+                  )}
+                  {network.historyNote && (
+                    <p className="timings-note">{network.historyNote}</p>
+                  )}
+                </div>
+              )}
+              {mode === "transit" && network.timings?.[selectedStation.id] && (
                 <div className="timings">
                   <h4>First / last train</h4>
                   <ul>
@@ -193,7 +231,7 @@ export default function App() {
                   )}
                 </div>
               )}
-              {position && (
+              {mode === "transit" && position && (
                 <p className="distance-line">
                   {formatDistance(
                     findNearestStations([selectedStation], position.lat, position.lng, 1)[0].distance

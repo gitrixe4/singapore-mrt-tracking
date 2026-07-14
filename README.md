@@ -40,6 +40,13 @@ branches.
   as machine-readable open data. The UI reads
   `src/data/singapore/timings.json` as-is, so real scraped data can be
   swapped in without code changes.
+- A Transit / Heritage mode toggle (Singapore only): in Heritage mode,
+  clicking a station shows its year of first opening and a short
+  curated note on the origin of its name
+  (`scripts/build_history.py` → `src/data/singapore/history.json`).
+  Opening years follow the documented line-opening stages; name origins
+  are concise summaries of commonly documented etymologies and are
+  flagged as curated in the UI.
 
 ## Running locally
 

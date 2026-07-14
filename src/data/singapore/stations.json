@@ -174,20 +174,6 @@
     ]
   },
   {
-    "id": "bedok-south",
-    "name": "Bedok South",
-    "lat": 1.31688894033,
-    "lng": 103.949065273,
-    "lines": [
-      {
-        "line": "TE",
-        "code": "TE30",
-        "color": "#9D5B25",
-        "lineName": "Thomson-East Coast Line"
-      }
-    ]
-  },
-  {
     "id": "bencoolen",
     "name": "Bencoolen",
     "lat": 1.29891843393,
@@ -1032,6 +1018,20 @@
         "code": "NE14",
         "color": "#9900aa",
         "lineName": "North East Line"
+      }
+    ]
+  },
+  {
+    "id": "hume",
+    "name": "Hume",
+    "lat": 1.354339,
+    "lng": 103.769212,
+    "lines": [
+      {
+        "line": "DT",
+        "code": "DT4",
+        "color": "#005ec4",
+        "lineName": "Downtown Line"
       }
     ]
   },
@@ -2708,20 +2708,6 @@
         "code": "NE11",
         "color": "#9900aa",
         "lineName": "North East Line"
-      }
-    ]
-  },
-  {
-    "id": "xilin",
-    "name": "Xilin",
-    "lat": 1.32889914133,
-    "lng": 103.965218532,
-    "lines": [
-      {
-        "line": "DT",
-        "code": "DT36",
-        "color": "#005ec4",
-        "lineName": "Downtown Line"
       }
     ]
   },

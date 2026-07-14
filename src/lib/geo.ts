@@ -32,6 +32,14 @@ export interface LineTiming {
 /** stationId -> lineId -> first/last arrival times */
 export type NetworkTimings = Record<string, Record<string, LineTiming>>;
 
+export interface StationHistory {
+  opened: number;
+  origin?: string;
+}
+
+/** stationId -> opening year + name origin */
+export type NetworkHistory = Record<string, StationHistory>;
+
 export interface Network {
   id: string;
   name: string;
@@ -40,6 +48,8 @@ export interface Network {
   timings?: NetworkTimings;
   /** Shown next to timings, e.g. to flag estimated data. */
   timingsNote?: string;
+  history?: NetworkHistory;
+  historyNote?: string;
 }
 
 const EARTH_RADIUS_M = 6371000;

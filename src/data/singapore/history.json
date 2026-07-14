@@ -1,0 +1,738 @@
+{
+  "admiralty": {
+    "opened": 1996,
+    "origin": "After the British Admiralty, whose great Sembawang Naval Base dominated this coast from the 1920s to 1971."
+  },
+  "aljunied": {
+    "opened": 1989,
+    "origin": "After Syed Omar bin Ali Aljunied, the Yemeni merchant-philanthropist who gave land for mosques, churches and hospitals in early Singapore."
+  },
+  "ang-mo-kio": {
+    "opened": 1987,
+    "origin": "Hokkien for 'red-haired man's bridge' \u2014 after a bridge associated with the British ('ang mo', red-haired people); a rival theory reads it as the tomato, the 'red-haired person's brinjal'."
+  },
+  "bakau": {
+    "opened": 2003,
+    "origin": "Malay for the mangrove tree that lines the nearby Sungei Punggol."
+  },
+  "bangkit": {
+    "opened": 1999,
+    "origin": "Malay for 'to rise'."
+  },
+  "bartley": {
+    "opened": 2009,
+    "origin": "After Bartley Road, named for William Bartley, a member of the Municipal Commission."
+  },
+  "bayfront": {
+    "opened": 2012,
+    "origin": "Descriptive \u2014 serves Marina Bay Sands and Gardens by the Bay on the bay's waterfront."
+  },
+  "bayshore": {
+    "opened": 2024,
+    "origin": "After Bayshore Road along the East Coast."
+  },
+  "beauty-world": {
+    "opened": 2015,
+    "origin": "After the Beauty World amusement park and market (1947), once the biggest bazaar in the west of Singapore."
+  },
+  "bedok": {
+    "opened": 1989,
+    "origin": "Among Singapore's oldest placenames (charted from 1604) \u2014 possibly from 'bedoh', the great mosque drum, or 'biduk', a Malay fishing boat."
+  },
+  "bedok-north": {
+    "opened": 2017,
+    "origin": "North of Bedok \u2014 one of Singapore's oldest placenames, possibly from the mosque drum 'bedoh'."
+  },
+  "bedok-reservoir": {
+    "opened": 2017,
+    "origin": "By Bedok Reservoir, a former sand quarry turned water body."
+  },
+  "bencoolen": {
+    "opened": 2017,
+    "origin": "After Bencoolen Street, recalling Bengkulu in Sumatra, Raffles' post before he founded Singapore."
+  },
+  "bendemeer": {
+    "opened": 2017,
+    "origin": "From Bendemeer House, the Whampoa estate renamed after the 'bowers of Bendemeer' in Thomas Moore's poem Lalla Rookh."
+  },
+  "bishan": {
+    "opened": 1987,
+    "origin": "From Peck San Theng (\u78a7\u5c71\u4ead, 'jade hill pavilion'), the vast Cantonese cemetery that occupied the area before the new town was built over it in the 1980s."
+  },
+  "boon-keng": {
+    "opened": 2003,
+    "origin": "After Dr Lim Boon Keng (1869\u20131957), physician, reformer and philanthropist of the Straits Chinese community."
+  },
+  "boon-lay": {
+    "opened": 1990,
+    "origin": "After Chew Boon Lay (1852\u20131933), whose gambier, pepper and rubber estates covered the Jurong area."
+  },
+  "botanic-gardens": {
+    "opened": 2011,
+    "origin": "After the Singapore Botanic Gardens (1859), the country's first UNESCO World Heritage Site."
+  },
+  "braddell": {
+    "opened": 1987,
+    "origin": "After Sir Thomas Braddell, the first Attorney-General of the Straits Settlements."
+  },
+  "bras-basah": {
+    "opened": 2010,
+    "origin": "Malay 'beras basah', 'wet rice' \u2014 cargoes of rice soaked by the sea were dried on the banks of the stream here."
+  },
+  "bright-hill": {
+    "opened": 2021,
+    "origin": "After Bright Hill Temple \u2014 Kong Meng San Phor Kark See, Singapore's largest Buddhist monastery."
+  },
+  "buangkok": {
+    "opened": 2006,
+    "origin": "From \u4e07\u56fd ('myriad nations'), the name of the former Bankok/Buangkok rubber estate."
+  },
+  "bugis": {
+    "opened": 1989,
+    "origin": "After the Bugis, the seafaring traders from Sulawesi whose schooners crowded the Rochor and Kallang river mouths in the 1820s."
+  },
+  "bukit-batok": {
+    "opened": 1990,
+    "origin": "Malay 'hill of coconut shells' ('batok') by most readings \u2014 folk legend prefers the 'coughing hill', echoing quarry blasts in its granite face."
+  },
+  "bukit-gombak": {
+    "opened": 1990,
+    "origin": "Malay \u2014 'bukit' (hill) with 'gombak' (tuft or topknot), for the twin granite hills that crown the area."
+  },
+  "bukit-panjang": {
+    "opened": 1999,
+    "origin": "Malay for 'long hill', after the ridge that runs beside the town."
+  },
+  "buona-vista": {
+    "opened": 1988,
+    "origin": "Italian for 'good view' \u2014 the road was named around 1902 for its hilltop vista toward the sea."
+  },
+  "caldecott": {
+    "opened": 2011,
+    "origin": "After Sir Andrew Caldecott, colonial administrator; Caldecott Hill was the home of Singapore broadcasting from 1937."
+  },
+  "canberra": {
+    "opened": 2019,
+    "origin": "After Canberra Road in the former British naval base, named for Australia's capital city."
+  },
+  "cantonment": {
+    "opened": 2026,
+    "origin": "After Cantonment Road, where sepoy troops of the early colony were cantoned (garrisoned); the station sits by the old Tanjong Pagar railway station."
+  },
+  "cashew": {
+    "opened": 2015,
+    "origin": "After Cashew Road and the cashew plantations that once grew on these slopes."
+  },
+  "changi-airport": {
+    "opened": 2002,
+    "origin": "Changi is possibly named for the chengai tree; the airport opened on the reclaimed eastern coast in 1981."
+  },
+  "cheng-lim": {
+    "opened": 2013,
+    "origin": "After Cheng Lim Farmway, recalling the poultry farms of old Sengkang."
+  },
+  "chinatown": {
+    "opened": 2003,
+    "origin": "The heart of the historic Chinese quarter Raffles allotted in 1822 \u2014 known in Cantonese as Kreta Ayer, 'bullock-cart water'."
+  },
+  "chinese-garden": {
+    "opened": 1988,
+    "origin": "After the adjacent Chinese Garden (Yu Hwa Yuan), the Jurong Lake garden built in 1975 in northern Sung style."
+  },
+  "choa-chu-kang": {
+    "opened": 1990,
+    "origin": "A 'chu kang' was a river plantation district run by a clan headman ('kangchu') \u2014 this one of the Choa (Chua) clan."
+  },
+  "city-hall": {
+    "opened": 1987,
+    "origin": "After the adjacent City Hall (1929), where the Japanese surrender was signed in 1945 and Singapore's self-governance was proclaimed in 1959."
+  },
+  "clarke-quay": {
+    "opened": 2003,
+    "origin": "After Sir Andrew Clarke, second Governor of the Straits Settlements, who made the Singapore River quays the colony's trading artery."
+  },
+  "clementi": {
+    "opened": 1988,
+    "origin": "After Sir Cecil Clementi, Governor of the Straits Settlements (1930\u20131934), whose grand-uncle Sir Cecil Clementi Smith had also governed."
+  },
+  "commonwealth": {
+    "opened": 1988,
+    "origin": "After Commonwealth Avenue, named for the Commonwealth of Nations as Singapore moved toward self-government."
+  },
+  "compassvale": {
+    "opened": 2003,
+    "origin": "After the Compassvale estate, whose name recalls the compass bearings of the old survey plans."
+  },
+  "coral-edge": {
+    "opened": 2005,
+    "origin": "Part of the Punggol waterfront naming theme."
+  },
+  "cove": {
+    "opened": 2005,
+    "origin": "Part of the Punggol waterfront naming theme."
+  },
+  "dakota": {
+    "opened": 2010,
+    "origin": "After the Douglas 'Dakota' DC-3 aircraft that flew from old Kallang Airport \u2014 remembered also in Dakota Crescent."
+  },
+  "damai": {
+    "opened": 2011,
+    "origin": "Malay for 'peace'."
+  },
+  "dhoby-ghaut": {
+    "opened": 1987,
+    "origin": "From Hindi 'dhobi' (washerman) and 'ghat' (river steps) \u2014 Indian dhobies once washed and dried laundry along the Stamford Canal here."
+  },
+  "dover": {
+    "opened": 2001,
+    "origin": "After Dover Road, one of a cluster of roads named after English towns."
+  },
+  "downtown": {
+    "opened": 2013,
+    "origin": "Descriptive \u2014 in the heart of the Marina Bay financial district."
+  },
+  "esplanade": {
+    "opened": 2010,
+    "origin": "After the Esplanade waterfront and theatres \u2014 the old sea-front promenade of colonial Singapore."
+  },
+  "eunos": {
+    "opened": 1989,
+    "origin": "After Mohamed Eunos Abdullah (1876\u20131933), father of Malay journalism and founder of the Singapore Malay Union."
+  },
+  "expo": {
+    "opened": 2001,
+    "origin": "Serves the Singapore Expo exhibition centre, opened in 1999."
+  },
+  "fajar": {
+    "opened": 1999,
+    "origin": "Malay for 'dawn'."
+  },
+  "farmway": {
+    "opened": 2007,
+    "origin": "After the numbered farmways of the former Punggol pig- and poultry-farming district."
+  },
+  "farrer-park": {
+    "opened": 2003,
+    "origin": "After Roland John Farrer, long-serving president of the Municipal Commissioners; the park hosted Singapore's first aeroplane landing in 1911."
+  },
+  "farrer-road": {
+    "opened": 2011,
+    "origin": "After Roland John Farrer, president of the Municipal Commissioners in the early 20th century."
+  },
+  "fernvale": {
+    "opened": 2005,
+    "origin": "After Fernvale Lane and the old Fernvale estate."
+  },
+  "fort-canning": {
+    "opened": 2017,
+    "origin": "After the hill fort named for Viceroy Charles Canning \u2014 known to the Malays as Bukit Larangan, the Forbidden Hill of the ancient kings."
+  },
+  "gardens-by-the-bay": {
+    "opened": 2022,
+    "origin": "Serves the Gardens by the Bay, opened on reclaimed land in 2012."
+  },
+  "geylang-bahru": {
+    "opened": 2017,
+    "origin": "'New Geylang' \u2014 Geylang itself is often traced to Malay 'kilang', the mills that pressed coconut and lemongrass oil."
+  },
+  "great-world": {
+    "opened": 2022,
+    "origin": "After the Great World amusement park, one of the three famous 'Worlds' of mid-century Singapore nightlife."
+  },
+  "gul-circle": {
+    "opened": 2017,
+    "origin": "After Gul Circle, from Tanjong Gul at the western tip of the mainland."
+  },
+  "harbourfront": {
+    "opened": 2003,
+    "origin": "Descriptive \u2014 at Keppel Harbour, on the site of the former World Trade Centre; gateway to Sentosa."
+  },
+  "havelock": {
+    "opened": 2022,
+    "origin": "After General Sir Henry Havelock, British commander of the Indian Rebellion of 1857."
+  },
+  "haw-par-villa": {
+    "opened": 2011,
+    "origin": "After the Haw Par Villa gardens of Chinese mythology, built in 1937 by the Tiger Balm brothers Aw Boon Haw and Aw Boon Par."
+  },
+  "hillview": {
+    "opened": 2015,
+    "origin": "After Hillview Avenue, in the shadow of Bukit Timah hill."
+  },
+  "holland-village": {
+    "opened": 2011,
+    "origin": "After Hugh Holland, an early architect and amateur actor \u2014 not the Netherlands, despite the district's expatriate flavour."
+  },
+  "hougang": {
+    "opened": 2003,
+    "origin": "Teochew for 'river's end' (\u540e\u6e2f) \u2014 the upper reaches of the Serangoon River, heart of Teochew rural Singapore."
+  },
+  "hume": {
+    "opened": 2025,
+    "origin": "After Hume Avenue, named for Hume Industries, whose pipe factory stood here."
+  },
+  "jalan-besar": {
+    "opened": 2017,
+    "origin": "Malay for 'big road' \u2014 the avenue laid across a betel-nut plantation in the 1880s."
+  },
+  "jelapang": {
+    "opened": 1999,
+    "origin": "Malay for 'granary' or rice barn."
+  },
+  "joo-koon": {
+    "opened": 2009,
+    "origin": "After Joo Koon Circle in the Jurong industrial estate."
+  },
+  "jurong-east": {
+    "opened": 1988,
+    "origin": "Jurong is possibly from Malay 'jerung' (shark) or 'penjuru' (corner/cape); the fishing river became Singapore's great industrial estate from 1961."
+  },
+  "kadaloor": {
+    "opened": 2005,
+    "origin": "Tamil \u2014 'kadal' (sea) with 'oor' (town): the seaside town."
+  },
+  "kaki-bukit": {
+    "opened": 2017,
+    "origin": "Malay for 'foot of the hill'."
+  },
+  "kallang": {
+    "opened": 1989,
+    "origin": "After the Kallang River and the Orang Kallang, the sea people who lived at its mouth before 1819."
+  },
+  "kangkar": {
+    "opened": 2003,
+    "origin": "Teochew 'foot of the port' (\u6e2f\u811a) \u2014 the old Kangkar fishing village stood at the head of the Serangoon River."
+  },
+  "katong-park": {
+    "opened": 2024,
+    "origin": "Katong is popularly said to be an extinct species of sea turtle, or the shimmer of heat haze on the sea; the park sits on the old seafront."
+  },
+  "keat-hong": {
+    "opened": 1999,
+    "origin": "After the old Keat Hong village and camp."
+  },
+  "kembangan": {
+    "opened": 1989,
+    "origin": "Malay for 'blossoming' or 'expansion'."
+  },
+  "kent-ridge": {
+    "opened": 2011,
+    "origin": "Renamed from Pasir Panjang Ridge after the Duchess of Kent's 1952 visit; site of the fierce WWII Battle of Pasir Panjang."
+  },
+  "keppel": {
+    "opened": 2026,
+    "origin": "After Admiral Henry Keppel, who charted the deep-water New Harbour; it was renamed Keppel Harbour in his honour in 1900."
+  },
+  "khatib": {
+    "opened": 1988,
+    "origin": "From nearby Sungei Khatib Bongsu, recalling a khatib (mosque preacher) who once owned land by the river."
+  },
+  "king-albert-park": {
+    "opened": 2015,
+    "origin": "After King Albert I of Belgium, honoured as a WWI ally."
+  },
+  "kovan": {
+    "opened": 2003,
+    "origin": "After Kovan Road in the old Hougang countryside."
+  },
+  "kranji": {
+    "opened": 1996,
+    "origin": "After the kranji tree (Dialium indum), a hardwood once common along Sungei Kranji."
+  },
+  "kupang": {
+    "opened": 2015,
+    "origin": "Malay for the green mussel, harvested along the Punggol coast."
+  },
+  "labrador-park": {
+    "opened": 2011,
+    "origin": "After Labrador Park and its colonial coastal battery; the name descends from the 19th-century Labrador Villa estate."
+  },
+  "lakeside": {
+    "opened": 1988,
+    "origin": "Descriptive \u2014 on the western shore of Jurong Lake."
+  },
+  "lavender": {
+    "opened": 1989,
+    "origin": "Named in irony \u2014 Lavender Street was infamous for the stench of its nightsoil-fertilised vegetable farms, so residents called it after the fragrant plant."
+  },
+  "layar": {
+    "opened": 2005,
+    "origin": "Malay for 'sail'."
+  },
+  "lentor": {
+    "opened": 2021,
+    "origin": "After Lentor Avenue and the surrounding estate."
+  },
+  "little-india": {
+    "opened": 2003,
+    "origin": "The historic Indian quarter that grew along Serangoon Road's cattle yards and spice gardens."
+  },
+  "lorong-chuan": {
+    "opened": 2009,
+    "origin": "Malay 'lorong' (lane) joined to the Chinese estate name Chuan."
+  },
+  "macpherson": {
+    "opened": 2010,
+    "origin": "After Lt-Col Ronald MacPherson, first Colonial Secretary of the Straits Settlements, designer of St Andrew's Cathedral."
+  },
+  "marina-bay": {
+    "opened": 1989,
+    "origin": "Descriptive name for the bay created by reclaiming Marina South and Marina East from the sea."
+  },
+  "marina-south-pier": {
+    "opened": 2014,
+    "origin": "Serves the pier from which ferries leave for the Southern Islands."
+  },
+  "marine-parade": {
+    "opened": 2024,
+    "origin": "After the seafront estate built entirely on reclaimed land in the 1970s."
+  },
+  "marine-terrace": {
+    "opened": 2024,
+    "origin": "After the Marine Parade estate street of the same name."
+  },
+  "marsiling": {
+    "opened": 1996,
+    "origin": "From Ma Xi Ling (\u9a6c\u897f\u5cad), the hill-village name carried here by early Chinese settlers."
+  },
+  "marymount": {
+    "opened": 2009,
+    "origin": "After Marymount Convent and its school, established by the Good Shepherd sisters."
+  },
+  "mattar": {
+    "opened": 2017,
+    "origin": "After Mattar Road."
+  },
+  "maxwell": {
+    "opened": 2022,
+    "origin": "After Maxwell Road, home of the famous Maxwell Food Centre."
+  },
+  "mayflower": {
+    "opened": 2021,
+    "origin": "After the Mayflower estate in Ang Mo Kio."
+  },
+  "meridian": {
+    "opened": 2005,
+    "origin": "Part of the Punggol waterfront naming theme."
+  },
+  "mountbatten": {
+    "opened": 2010,
+    "origin": "After Lord Louis Mountbatten, Supreme Allied Commander in South East Asia, who accepted the Japanese surrender in Singapore in 1945."
+  },
+  "napier": {
+    "opened": 2022,
+    "origin": "After Napier Road, named for William Napier, Singapore's first Law Agent."
+  },
+  "newton": {
+    "opened": 1987,
+    "origin": "After Newton Road and Newton Circus, commemorating a 19th-century municipal engineer named Newton."
+  },
+  "nibong": {
+    "opened": 2014,
+    "origin": "Malay for the nibong palm of the mangrove coast."
+  },
+  "nicoll-highway": {
+    "opened": 2010,
+    "origin": "After Sir John Nicoll, Governor of Singapore (1952\u20131955)."
+  },
+  "novena": {
+    "opened": 1987,
+    "origin": "After the Church of St Alphonsus nearby, universally known as Novena Church for its popular weekly novena devotions."
+  },
+  "oasis": {
+    "opened": 2007,
+    "origin": "Part of the Punggol waterfront naming theme."
+  },
+  "one-north": {
+    "opened": 2011,
+    "origin": "Named for Singapore's latitude \u2014 one degree north of the equator \u2014 as the research district's forward-looking brand."
+  },
+  "orchard": {
+    "opened": 1987,
+    "origin": "After Orchard Road, which in the 1830s ran between nutmeg orchards and pepper plantations."
+  },
+  "orchard-boulevard": {
+    "opened": 2022,
+    "origin": "Descriptive \u2014 on the boulevard running parallel to Orchard Road."
+  },
+  "outram-park": {
+    "opened": 1987,
+    "origin": "After Sir James Outram (1803\u20131863), British general of the Indian Rebellion of 1857."
+  },
+  "pasir-panjang": {
+    "opened": 2011,
+    "origin": "Malay for 'long sand' \u2014 the long beach that ran along the coast before land reclamation."
+  },
+  "pasir-ris": {
+    "opened": 1989,
+    "origin": "Malay, usually read as 'pasir hiris' \u2014 shredded / narrow sand \u2014 after the long sandy beach on the north-east coast."
+  },
+  "paya-lebar": {
+    "opened": 1989,
+    "origin": "Malay for 'wide swamp', after the marshland that covered the district."
+  },
+  "pending": {
+    "opened": 1999,
+    "origin": "Malay for an ornamental royal belt buckle."
+  },
+  "petir": {
+    "opened": 1999,
+    "origin": "Malay for 'thunderbolt' \u2014 Bukit Panjang's LRT stops carry Malay nature names."
+  },
+  "phoenix": {
+    "opened": 1999,
+    "origin": "After the Phoenix Heights estate."
+  },
+  "pioneer": {
+    "opened": 2009,
+    "origin": "After Pioneer Road and Pioneer Sector, honouring the industrial pioneers of Jurong."
+  },
+  "potong-pasir": {
+    "opened": 2003,
+    "origin": "Malay for 'cut sand' \u2014 the district was pocked with sand-quarrying pits before it became a vegetable-farming village."
+  },
+  "prince-edward-road": {
+    "opened": 2026,
+    "origin": "After Prince Edward, the Prince of Wales (later Edward VIII), following his visit to Singapore in 1922."
+  },
+  "promenade": {
+    "opened": 2010,
+    "origin": "Descriptive \u2014 by the Marina Bay waterfront promenade."
+  },
+  "punggol": {
+    "opened": 2003,
+    "origin": "Old Malay kampong name \u2014 'ponggol' describes hurling a stick to knock fruit from a tree, and a riverside fruit wholesaling point."
+  },
+  "punggol-coast": {
+    "opened": 2024,
+    "origin": "Descriptive \u2014 serves the new Punggol Digital District by the northern coast."
+  },
+  "punggol-point": {
+    "opened": 2014,
+    "origin": "After Punggol Point, the northern tip where the old jetty and seafood restaurants stood."
+  },
+  "queenstown": {
+    "opened": 1988,
+    "origin": "Singapore's first satellite town, named in 1953 to mark the coronation of Queen Elizabeth II."
+  },
+  "raffles-place": {
+    "opened": 1987,
+    "origin": "Laid out as Commercial Square in 1824 and renamed in 1858 for Sir Stamford Raffles, founder of colonial Singapore."
+  },
+  "ranggung": {
+    "opened": 2003,
+    "origin": "After Lorong Ranggung; the ranggung is a marsh bird associated with the Serangoon area."
+  },
+  "redhill": {
+    "opened": 1988,
+    "origin": "English for Bukit Merah \u2014 the red laterite hill of the swordfish legend, in which a boy's clever plan to stop swordfish attacks ended with his blood staining the hill."
+  },
+  "renjong": {
+    "opened": 2005,
+    "origin": "After Lorong Renjong, an old kampong track of the district."
+  },
+  "riviera": {
+    "opened": 2005,
+    "origin": "Part of the Punggol waterfront naming theme."
+  },
+  "rochor": {
+    "opened": 2015,
+    "origin": "After the Rochor River and canal, one of the two streams that framed the old town plan."
+  },
+  "rumbia": {
+    "opened": 2003,
+    "origin": "Malay for the sago palm."
+  },
+  "sam-kee": {
+    "opened": 2014,
+    "origin": "After the old Sam Kee kampong jetty on the Punggol shore."
+  },
+  "samudera": {
+    "opened": 2014,
+    "origin": "Malay (from Sanskrit) for 'ocean'."
+  },
+  "segar": {
+    "opened": 1999,
+    "origin": "Malay for 'fresh'."
+  },
+  "sembawang": {
+    "opened": 1996,
+    "origin": "After the sembawang tree (Mesua ferruginea), which grew along the Sembawang River; a specimen is planted at Sembawang Park."
+  },
+  "sengkang": {
+    "opened": 2003,
+    "origin": "Chinese \u76db\u6e2f, 'prosperous harbour' \u2014 recalling the fishing jetties of the Serangoon River."
+  },
+  "senja": {
+    "opened": 1999,
+    "origin": "Malay for 'dusk'."
+  },
+  "serangoon": {
+    "opened": 2003,
+    "origin": "Often traced to the ranggung, a marsh bird of the Serangoon River \u2014 or to 'di-serang dengan gong', 'attacked with gongs' to scare wild animals."
+  },
+  "shenton-way": {
+    "opened": 2022,
+    "origin": "After Sir Shenton Thomas, last Governor of the Straits Settlements, who endured the Japanese occupation as a prisoner."
+  },
+  "siglap": {
+    "opened": 2024,
+    "origin": "Malay 'si-gelap', 'the dark one' \u2014 legend ties the name to a solar eclipse, or to the darkness of its dense coastal groves."
+  },
+  "simei": {
+    "opened": 1989,
+    "origin": "Mandarin for 'four beauties' (\u56db\u7f8e) \u2014 the surrounding streets once bore the names of the four legendary beauties of Chinese history."
+  },
+  "sixth-avenue": {
+    "opened": 2015,
+    "origin": "After the Bukit Timah residential avenue of the same name."
+  },
+  "somerset": {
+    "opened": 1987,
+    "origin": "After Somerset Road, named for the English county."
+  },
+  "soo-teck": {
+    "opened": 2014,
+    "origin": "After the old Soo Teck kampong of the Punggol district."
+  },
+  "south-view": {
+    "opened": 1999,
+    "origin": "Descriptive \u2014 looking south over Choa Chu Kang."
+  },
+  "springleaf": {
+    "opened": 2021,
+    "origin": "After the Springleaf estate off Upper Thomson Road."
+  },
+  "stadium": {
+    "opened": 2010,
+    "origin": "Serves the National Stadium at Kallang, successor to the 1973 Grand Old Dame."
+  },
+  "stevens": {
+    "opened": 2015,
+    "origin": "After Stevens Road."
+  },
+  "sumang": {
+    "opened": 2014,
+    "origin": "After Sumang Walk; part of Punggol's kampong-heritage street names."
+  },
+  "tai-seng": {
+    "opened": 2010,
+    "origin": "After the Tai Seng (\u5927\u6210) estate name of the surrounding industrial district."
+  },
+  "tampines": {
+    "opened": 1989,
+    "origin": "After the tempinis tree (Streblus elongatus), an ironwood that once forested the area \u2014 one of Singapore's oldest recorded placenames."
+  },
+  "tampines-east": {
+    "opened": 2017,
+    "origin": "East of Tampines, named for the tempinis ironwood tree."
+  },
+  "tampines-west": {
+    "opened": 2017,
+    "origin": "West of Tampines, named for the tempinis ironwood tree."
+  },
+  "tan-kah-kee": {
+    "opened": 2015,
+    "origin": "After Tan Kah Kee (1874\u20131961), rubber magnate and philanthropist who founded Hwa Chong Institution next door."
+  },
+  "tanah-merah": {
+    "opened": 1989,
+    "origin": "Malay for 'red earth' \u2014 after the red laterite sea-cliffs that served as a landmark for sailors."
+  },
+  "tanjong-katong": {
+    "opened": 2024,
+    "origin": "The cape of Katong \u2014 the historic seaside district of Peranakan mansions."
+  },
+  "tanjong-pagar": {
+    "opened": 1987,
+    "origin": "Malay for 'cape of stakes' \u2014 after the fenced kelong fishing traps that lined the old shoreline."
+  },
+  "tanjong-rhu": {
+    "opened": 2024,
+    "origin": "Malay for 'cape of casuarina trees', after the rhu trees on the old shipyard point."
+  },
+  "teck-lee": {
+    "opened": 2024,
+    "origin": "After the old Teck Lee kampong of the Punggol district."
+  },
+  "teck-whye": {
+    "opened": 1999,
+    "origin": "After Teck Whye estate and road."
+  },
+  "telok-ayer": {
+    "opened": 2013,
+    "origin": "Malay for 'water bay' \u2014 the original shoreline where immigrants first landed; Thian Hock Keng temple on this street once faced the open sea."
+  },
+  "telok-blangah": {
+    "opened": 2011,
+    "origin": "Malay 'telok' (bay) and 'belanga' (clay cooking pot) \u2014 the pot-shaped bay that was once the seat of the Temenggong of Johor."
+  },
+  "thanggam": {
+    "opened": 2005,
+    "origin": "Tamil for 'gold'."
+  },
+  "tiong-bahru": {
+    "opened": 1988,
+    "origin": "Hokkien 'tiong' (from \u585a, burial ground) with Malay 'bahru' (new) \u2014 the 'new cemetery', in contrast to the old one at Chinatown."
+  },
+  "toa-payoh": {
+    "opened": 1987,
+    "origin": "Hokkien for 'big swamp' \u2014 the new town rose from what was once marshland and squatter farms."
+  },
+  "tongkang": {
+    "opened": 2005,
+    "origin": "Malay for the wooden lighter boats that worked Singapore's rivers."
+  },
+  "tuas-crescent": {
+    "opened": 2017,
+    "origin": "Tuas recalls 'menuas', a Malay fishing technique that lured fish under floating coconut fronds."
+  },
+  "tuas-link": {
+    "opened": 2017,
+    "origin": "Tuas recalls 'menuas', a Malay fishing technique that lured fish under floating coconut fronds."
+  },
+  "tuas-west-road": {
+    "opened": 2017,
+    "origin": "Tuas recalls 'menuas', a Malay fishing technique that lured fish under floating coconut fronds."
+  },
+  "ubi": {
+    "opened": 2017,
+    "origin": "Malay for 'tapioca' \u2014 the root crop widely planted here, especially during the war years."
+  },
+  "upper-changi": {
+    "opened": 2017,
+    "origin": "Changi is possibly named for the chengai tree; the station serves the SUTD campus."
+  },
+  "upper-thomson": {
+    "opened": 2021,
+    "origin": "After John Turnbull Thomson, Government Surveyor of the Straits Settlements, who laid the road north."
+  },
+  "woodlands": {
+    "opened": 1996,
+    "origin": "The wooded coast seen from across the Johor Strait; early travellers described the shoreline plantations as 'the woodlands'."
+  },
+  "woodlands-north": {
+    "opened": 2020,
+    "origin": "North of Woodlands, by the future Johor Bahru\u2013Singapore RTS link terminus."
+  },
+  "woodlands-south": {
+    "opened": 2020,
+    "origin": "South of Woodlands town centre."
+  },
+  "woodleigh": {
+    "opened": 2011,
+    "origin": "After Woodleigh Close, which took its name from a colonial-era estate house."
+  },
+  "yew-tee": {
+    "opened": 1996,
+    "origin": "Teochew for 'oil pond' (\u6cb9\u6c60) \u2014 the Japanese stored oil in the area during the WWII occupation."
+  },
+  "yio-chu-kang": {
+    "opened": 1987,
+    "origin": "A 'chu kang' was a river plantation district run by a clan headman \u2014 this one belonged to the Yio (Yeo) clan, who grew gambier and pepper here."
+  },
+  "yishun": {
+    "opened": 1988,
+    "origin": "The Mandarin form of Nee Soon \u2014 after Lim Nee Soon (1879\u20131936), the 'Pineapple King' whose rubber and pineapple estates covered the area."
+  }
+}
