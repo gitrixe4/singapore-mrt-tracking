@@ -1,63 +1,83 @@
 import { useMemo, useState } from "react";
-import stationsData from "./data/stations.json";
-import linesData from "./data/lines.json";
-import type { Station, LineMeta } from "./lib/geo";
+import { NETWORKS, DEFAULT_NETWORK_ID } from "./data/networks";
 import { findNearestStations, formatDistance } from "./lib/geo";
 import { useGeolocation } from "./lib/useGeolocation";
 import MrtMap from "./components/MrtMap";
 import "./App.css";
 
-const stations = stationsData as Station[];
-const lines = linesData as LineMeta[];
-
-const MAIN_LINES = lines.filter((l) => l.id !== "CG");
-
-// Branch segments drawn as separate paths but belonging to a parent line;
-// they must show/hide together with it.
-const LINE_BRANCHES: Record<string, string[]> = {
-  EW: ["CG"], // Changi Airport branch
-};
+// Accent-insensitive matching so "chatelet" finds "Châtelet".
+const fold = (s: string) =>
+  s
+    .normalize("NFD")
+    .replace(/\p{Diacritic}/gu, "")
+    .replace(/[–—]/g, "-")
+    .toLowerCase();
 
 export default function App() {
+  const [networkId, setNetworkId] = useState<string>(() => {
+    const saved = localStorage.getItem("network");
+    return NETWORKS.some((n) => n.id === saved) ? saved! : DEFAULT_NETWORK_ID;
+  });
+  const network = NETWORKS.find((n) => n.id === networkId)!;
+  const { stations, lines } = network;
+
   const [query, setQuery] = useState("");
   const [selectedStationId, setSelectedStationId] = useState<string | null>(null);
   const [hiddenLineIds, setHiddenLineIds] = useState<Set<string>>(new Set());
   const { status, position, error, start, stop } = useGeolocation();
 
+  const switchNetwork = (id: string) => {
+    setNetworkId(id);
+    localStorage.setItem("network", id);
+    setSelectedStationId(null);
+    setHiddenLineIds(new Set());
+    setQuery("");
+  };
+
+  // Legend shows top-level lines; branch segments follow their parent.
+  const mainLines = useMemo(() => lines.filter((l) => !l.parent), [lines]);
+  const childrenOf = useMemo(() => {
+    const m = new Map<string, string[]>();
+    for (const l of lines) {
+      if (l.parent) m.set(l.parent, [...(m.get(l.parent) ?? []), l.id]);
+    }
+    return m;
+  }, [lines]);
+
   const visibleLineIds = useMemo(() => {
     const all = new Set(lines.map((l) => l.id));
     for (const id of hiddenLineIds) all.delete(id);
     return all;
-  }, [hiddenLineIds]);
+  }, [lines, hiddenLineIds]);
 
   const nearest = useMemo(() => {
     if (!position) return [];
     return findNearestStations(stations, position.lat, position.lng, 5);
-  }, [position]);
+  }, [stations, position]);
 
   const nearestStation = nearest[0] ?? null;
 
   const selectedStation = useMemo(
     () => stations.find((s) => s.id === selectedStationId) ?? null,
-    [selectedStationId]
+    [stations, selectedStationId]
   );
 
   const searchResults = useMemo(() => {
-    const q = query.trim().toLowerCase();
+    const q = fold(query.trim());
     if (!q) return [];
     return stations
       .filter(
         (s) =>
-          s.name.toLowerCase().includes(q) ||
-          s.lines.some((l) => l.code.toLowerCase().includes(q))
+          fold(s.name).includes(q) ||
+          s.lines.some((l) => fold(l.code).includes(q))
       )
       .slice(0, 8);
-  }, [query]);
+  }, [stations, query]);
 
   const toggleLine = (id: string) => {
     setHiddenLineIds((prev) => {
       const next = new Set(prev);
-      const ids = [id, ...(LINE_BRANCHES[id] ?? [])];
+      const ids = [id, ...(childrenOf.get(id) ?? [])];
       if (next.has(id)) ids.forEach((i) => next.delete(i));
       else ids.forEach((i) => next.add(i));
       return next;
@@ -67,8 +87,20 @@ export default function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1>Singapore MRT / LRT Tracker</h1>
-        <div className="locate-controls">
+        <h1>Transit Tracker</h1>
+        <div className="header-controls">
+          <select
+            className="network-select"
+            value={networkId}
+            onChange={(e) => switchNetwork(e.target.value)}
+            aria-label="Choose network"
+          >
+            {NETWORKS.map((n) => (
+              <option key={n.id} value={n.id}>
+                {n.name}
+              </option>
+            ))}
+          </select>
           {status === "tracking" || status === "locating" ? (
             <button className="btn btn-stop" onClick={stop}>
               {status === "locating" ? "Locating…" : "Stop Tracking"}
@@ -99,7 +131,7 @@ export default function App() {
           <div className="search-box">
             <input
               type="text"
-              placeholder="Search station or code (e.g. Bugis, NS24)"
+              placeholder="Search station or line"
               value={query}
               onChange={(e) => setQuery(e.target.value)}
             />
@@ -172,7 +204,7 @@ export default function App() {
           <div className="legend">
             <h3>Lines</h3>
             <ul>
-              {MAIN_LINES.map((l) => (
+              {mainLines.map((l) => (
                 <li key={l.id}>
                   <label>
                     <input
@@ -191,6 +223,7 @@ export default function App() {
 
         <main className="map-area">
           <MrtMap
+            key={network.id}
             stations={stations}
             lines={lines}
             selectedStationId={selectedStationId}

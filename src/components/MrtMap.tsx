@@ -24,7 +24,7 @@ export default function MrtMap({
   onSelectStation,
   visibleLineIds,
 }: Props) {
-  const projection = useMemo(() => makeProjection(VIEW_W, VIEW_H), []);
+  const projection = useMemo(() => makeProjection(stations, VIEW_W, VIEW_H), [stations]);
   const stationById = useMemo(() => {
     const m = new Map<string, Station>();
     for (const s of stations) m.set(s.id, s);
@@ -246,7 +246,7 @@ export default function MrtMap({
                   points={pts}
                   fill="none"
                   stroke={line.color}
-                  strokeWidth={line.id.length === 2 && ["BP", "SK", "PG"].includes(line.id) ? 2.2 : 3.4}
+                  strokeWidth={line.thin ? 2.2 : 3.4}
                   strokeLinejoin="round"
                   strokeLinecap="round"
                   opacity={0.92}

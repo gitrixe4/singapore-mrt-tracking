@@ -1,0 +1,4994 @@
+[
+  {
+    "id": "abbesses",
+    "name": "Abbesses",
+    "lat": 48.884849,
+    "lng": 2.338688,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "aime-cesaire",
+    "name": "Aimé Césaire",
+    "lat": 48.908317,
+    "lng": 2.37802,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "alexandre-dumas",
+    "name": "Alexandre Dumas",
+    "lat": 48.855907,
+    "lng": 2.39479,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      }
+    ]
+  },
+  {
+    "id": "alma-marceau",
+    "name": "Alma—Marceau",
+    "lat": 48.864904,
+    "lng": 2.300234,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "alesia",
+    "name": "Alésia",
+    "lat": 48.828333,
+    "lng": 2.326667,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "anatole-france",
+    "name": "Anatole France",
+    "lat": 48.892022,
+    "lng": 2.285536,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "anvers",
+    "name": "Anvers",
+    "lat": 48.883007,
+    "lng": 2.344849,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      }
+    ]
+  },
+  {
+    "id": "argentine",
+    "name": "Argentine",
+    "lat": 48.875278,
+    "lng": 2.29,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      }
+    ]
+  },
+  {
+    "id": "arts-et-metiers",
+    "name": "Arts et Métiers",
+    "lat": 48.8655,
+    "lng": 2.3561,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      },
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "assemblee-nationale",
+    "name": "Assemblée Nationale",
+    "lat": 48.860655,
+    "lng": 2.32113,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "aubervilliers-pantin-quatre-chemins",
+    "name": "Aubervilliers—Pantin—Quatre Chemins",
+    "lat": 48.9039,
+    "lng": 2.3925,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "avenue-emile-zola",
+    "name": "Avenue Émile Zola",
+    "lat": 48.846977,
+    "lng": 2.294512,
+    "lines": [
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "avron",
+    "name": "Avron",
+    "lat": 48.85194,
+    "lng": 2.397863,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      }
+    ]
+  },
+  {
+    "id": "aeroport-d-orly",
+    "name": "Aéroport d'Orly",
+    "lat": 48.728081,
+    "lng": 2.362364,
+    "lines": [
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "bagneux-lucie-aubrac",
+    "name": "Bagneux—Lucie Aubrac",
+    "lat": 48.8027,
+    "lng": 2.3173,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "balard",
+    "name": "Balard",
+    "lat": 48.83597,
+    "lng": 2.278212,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "barbara",
+    "name": "Barbara",
+    "lat": 48.8092,
+    "lng": 2.3176,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "barbes-rochechouart",
+    "name": "Barbès—Rochechouart",
+    "lat": 48.883611,
+    "lng": 2.350556,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      },
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "basilique-de-saint-denis",
+    "name": "Basilique de Saint-Denis",
+    "lat": 48.93806,
+    "lng": 2.36083,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "bastille",
+    "name": "Bastille",
+    "lat": 48.853082,
+    "lng": 2.369077,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      },
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      },
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "bel-air",
+    "name": "Bel-Air",
+    "lat": 48.841344,
+    "lng": 2.400912,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "belleville",
+    "name": "Belleville",
+    "lat": 48.872083,
+    "lng": 2.376947,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      },
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "bercy",
+    "name": "Bercy",
+    "lat": 48.83993,
+    "lng": 2.380418,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      },
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "bibliotheque-francois-mitterrand",
+    "name": "Bibliothèque François Mitterrand",
+    "lat": 48.829822,
+    "lng": 2.376781,
+    "lines": [
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "billancourt",
+    "name": "Billancourt",
+    "lat": 48.83209,
+    "lng": 2.238177,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "bir-hakeim",
+    "name": "Bir-Hakeim",
+    "lat": 48.853917,
+    "lng": 2.289332,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "blanche",
+    "name": "Blanche",
+    "lat": 48.883459,
+    "lng": 2.333703,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      }
+    ]
+  },
+  {
+    "id": "bobigny-pablo-picasso",
+    "name": "Bobigny—Pablo Picasso",
+    "lat": 48.906538,
+    "lng": 2.449994,
+    "lines": [
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      }
+    ]
+  },
+  {
+    "id": "bobigny-pantin-raymond-queneau",
+    "name": "Bobigny—Pantin—Raymond Queneau",
+    "lat": 48.895,
+    "lng": 2.425,
+    "lines": [
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      }
+    ]
+  },
+  {
+    "id": "boissiere",
+    "name": "Boissière",
+    "lat": 48.867386,
+    "lng": 2.290392,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "bolivar",
+    "name": "Bolivar",
+    "lat": 48.880502,
+    "lng": 2.374922,
+    "lines": [
+      {
+        "line": "7bis",
+        "code": "7bis",
+        "color": "#6eca97",
+        "lineName": "Ligne 7bis"
+      }
+    ]
+  },
+  {
+    "id": "bonne-nouvelle",
+    "name": "Bonne Nouvelle",
+    "lat": 48.870639,
+    "lng": 2.348875,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      },
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "botzaris",
+    "name": "Botzaris",
+    "lat": 48.879552,
+    "lng": 2.38804,
+    "lines": [
+      {
+        "line": "7bis",
+        "code": "7bis",
+        "color": "#6eca97",
+        "lineName": "Ligne 7bis"
+      }
+    ]
+  },
+  {
+    "id": "boucicaut",
+    "name": "Boucicaut",
+    "lat": 48.840578,
+    "lng": 2.286621,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "boulogne-jean-jaures",
+    "name": "Boulogne—Jean Jaurès",
+    "lat": 48.842278,
+    "lng": 2.238877,
+    "lines": [
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "boulogne-pont-de-saint-cloud",
+    "name": "Boulogne—Pont de Saint-Cloud",
+    "lat": 48.840684,
+    "lng": 2.228331,
+    "lines": [
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "bourse",
+    "name": "Bourse",
+    "lat": 48.868738,
+    "lng": 2.34137,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "brochant",
+    "name": "Brochant",
+    "lat": 48.890833,
+    "lng": 2.319722,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "breguet-sabin",
+    "name": "Bréguet—Sabin",
+    "lat": 48.856011,
+    "lng": 2.370134,
+    "lines": [
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      }
+    ]
+  },
+  {
+    "id": "buttes-chaumont",
+    "name": "Buttes Chaumont",
+    "lat": 48.8785,
+    "lng": 2.381772,
+    "lines": [
+      {
+        "line": "7bis",
+        "code": "7bis",
+        "color": "#6eca97",
+        "lineName": "Ligne 7bis"
+      }
+    ]
+  },
+  {
+    "id": "buzenval",
+    "name": "Buzenval",
+    "lat": 48.851976,
+    "lng": 2.402045,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "berault",
+    "name": "Bérault",
+    "lat": 48.845278,
+    "lng": 2.428333,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      }
+    ]
+  },
+  {
+    "id": "cadet",
+    "name": "Cadet",
+    "lat": 48.876135,
+    "lng": 2.344876,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "cambronne",
+    "name": "Cambronne",
+    "lat": 48.847537,
+    "lng": 2.302937,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "campo-formio",
+    "name": "Campo Formio",
+    "lat": 48.835,
+    "lng": 2.358,
+    "lines": [
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      }
+    ]
+  },
+  {
+    "id": "cardinal-lemoine",
+    "name": "Cardinal Lemoine",
+    "lat": 48.847139,
+    "lng": 2.351203,
+    "lines": [
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "carrefour-pleyel",
+    "name": "Carrefour Pleyel",
+    "lat": 48.92,
+    "lng": 2.34389,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "censier-daubenton",
+    "name": "Censier—Daubenton",
+    "lat": 48.840597,
+    "lng": 2.351774,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "champs-elysees-clemenceau",
+    "name": "Champs-Élysées—Clemenceau",
+    "lat": 48.8675,
+    "lng": 2.3135,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      },
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "chardon-lagache",
+    "name": "Chardon Lagache",
+    "lat": 48.845138,
+    "lng": 2.266214,
+    "lines": [
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "charenton-ecoles",
+    "name": "Charenton—Écoles",
+    "lat": 48.82149,
+    "lng": 2.41386,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "charles-michels",
+    "name": "Charles Michels",
+    "lat": 48.846591,
+    "lng": 2.286942,
+    "lines": [
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "charles-de-gaulle-etoile",
+    "name": "Charles de Gaulle—Étoile",
+    "lat": 48.873889,
+    "lng": 2.295,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      },
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      },
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "charonne",
+    "name": "Charonne",
+    "lat": 48.855103,
+    "lng": 2.384639,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "chaussee-d-antin-la-fayette",
+    "name": "Chaussée d'Antin—La Fayette",
+    "lat": 48.87307,
+    "lng": 2.33393,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      },
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "chemin-vert",
+    "name": "Chemin Vert",
+    "lat": 48.856778,
+    "lng": 2.368348,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "chevaleret",
+    "name": "Chevaleret",
+    "lat": 48.834938,
+    "lng": 2.368082,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "chevilly-larue",
+    "name": "Chevilly-Larue",
+    "lat": 48.75836,
+    "lng": 2.366663,
+    "lines": [
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "chateau-rouge",
+    "name": "Château Rouge",
+    "lat": 48.886667,
+    "lng": 2.349444,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "chateau-d-eau",
+    "name": "Château d'Eau",
+    "lat": 48.872778,
+    "lng": 2.356111,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "chateau-de-vincennes",
+    "name": "Château de Vincennes",
+    "lat": 48.844444,
+    "lng": 2.44,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      }
+    ]
+  },
+  {
+    "id": "chateau-landon",
+    "name": "Château-Landon",
+    "lat": 48.87846,
+    "lng": 2.362071,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "chatelet",
+    "name": "Châtelet",
+    "lat": 48.858352,
+    "lng": 2.347324,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      },
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      },
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      },
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      },
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "chatillon-montrouge",
+    "name": "Châtillon—Montrouge",
+    "lat": 48.810539,
+    "lng": 2.301826,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "cite",
+    "name": "Cité",
+    "lat": 48.855278,
+    "lng": 2.346389,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "cluny-la-sorbonne",
+    "name": "Cluny—La Sorbonne",
+    "lat": 48.851019,
+    "lng": 2.344583,
+    "lines": [
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "colonel-fabien",
+    "name": "Colonel Fabien",
+    "lat": 48.877136,
+    "lng": 2.37116,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      }
+    ]
+  },
+  {
+    "id": "commerce",
+    "name": "Commerce",
+    "lat": 48.845093,
+    "lng": 2.294215,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "concorde",
+    "name": "Concorde",
+    "lat": 48.86541,
+    "lng": 2.32111,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      },
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      },
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "convention",
+    "name": "Convention",
+    "lat": 48.837419,
+    "lng": 2.296795,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "corentin-cariou",
+    "name": "Corentin Cariou",
+    "lat": 48.89434,
+    "lng": 2.381745,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "corentin-celton",
+    "name": "Corentin Celton",
+    "lat": 48.826833,
+    "lng": 2.278985,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "corvisart",
+    "name": "Corvisart",
+    "lat": 48.829807,
+    "lng": 2.350508,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "cour-saint-emilion",
+    "name": "Cour Saint-Émilion",
+    "lat": 48.834,
+    "lng": 2.386,
+    "lines": [
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "courcelles",
+    "name": "Courcelles",
+    "lat": 48.879167,
+    "lng": 2.304167,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      }
+    ]
+  },
+  {
+    "id": "couronnes",
+    "name": "Couronnes",
+    "lat": 48.869521,
+    "lng": 2.379861,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      }
+    ]
+  },
+  {
+    "id": "crimee",
+    "name": "Crimée",
+    "lat": 48.89158,
+    "lng": 2.37707,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "croix-de-chavaux",
+    "name": "Croix de Chavaux",
+    "lat": 48.858055,
+    "lng": 2.435764,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "creteil-l-echat",
+    "name": "Créteil—L'Échat",
+    "lat": 48.795963,
+    "lng": 2.449356,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "creteil-prefecture",
+    "name": "Créteil—Préfecture",
+    "lat": 48.779772,
+    "lng": 2.459317,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "creteil-universite",
+    "name": "Créteil—Université",
+    "lat": 48.789754,
+    "lng": 2.450785,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "coteaux-beauclair",
+    "name": "Côteaux Beauclair",
+    "lat": 48.882319,
+    "lng": 2.467539,
+    "lines": [
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "danube",
+    "name": "Danube",
+    "lat": 48.881808,
+    "lng": 2.394201,
+    "lines": [
+      {
+        "line": "7bis",
+        "code": "7bis",
+        "color": "#6eca97",
+        "lineName": "Ligne 7bis"
+      }
+    ]
+  },
+  {
+    "id": "daumesnil",
+    "name": "Daumesnil",
+    "lat": 48.839644,
+    "lng": 2.395792,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      },
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "denfert-rochereau",
+    "name": "Denfert-Rochereau",
+    "lat": 48.833901,
+    "lng": 2.332728,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      },
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "dugommier",
+    "name": "Dugommier",
+    "lat": 48.83905,
+    "lng": 2.389964,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "dupleix",
+    "name": "Dupleix",
+    "lat": 48.850392,
+    "lng": 2.293611,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "duroc",
+    "name": "Duroc",
+    "lat": 48.846829,
+    "lng": 2.316479,
+    "lines": [
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      },
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "edgar-quinet",
+    "name": "Edgar Quinet",
+    "lat": 48.841048,
+    "lng": 2.325084,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "esplanade-de-la-defense",
+    "name": "Esplanade de La Défense",
+    "lat": 48.888333,
+    "lng": 2.25,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      }
+    ]
+  },
+  {
+    "id": "europe",
+    "name": "Europe",
+    "lat": 48.878821,
+    "lng": 2.32238,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "exelmans",
+    "name": "Exelmans",
+    "lat": 48.842405,
+    "lng": 2.259549,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "faidherbe-chaligny",
+    "name": "Faidherbe—Chaligny",
+    "lat": 48.850158,
+    "lng": 2.383398,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "falguiere",
+    "name": "Falguière",
+    "lat": 48.844566,
+    "lng": 2.318287,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "filles-du-calvaire",
+    "name": "Filles du Calvaire",
+    "lat": 48.864167,
+    "lng": 2.366111,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "fort-d-aubervilliers",
+    "name": "Fort d'Aubervilliers",
+    "lat": 48.91424,
+    "lng": 2.403785,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "franklin-d-roosevelt",
+    "name": "Franklin D. Roosevelt",
+    "lat": 48.868977,
+    "lng": 2.30989,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      },
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "front-populaire",
+    "name": "Front Populaire",
+    "lat": 48.9068,
+    "lng": 2.366,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "felix-faure",
+    "name": "Félix Faure",
+    "lat": 48.842351,
+    "lng": 2.291004,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "gabriel-peri",
+    "name": "Gabriel Péri",
+    "lat": 48.916667,
+    "lng": 2.294444,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "gallieni",
+    "name": "Gallieni",
+    "lat": 48.8635,
+    "lng": 2.41578,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "gambetta",
+    "name": "Gambetta",
+    "lat": 48.864947,
+    "lng": 2.398451,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      },
+      {
+        "line": "3bis",
+        "code": "3bis",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 3bis"
+      }
+    ]
+  },
+  {
+    "id": "gare-d-austerlitz",
+    "name": "Gare d'Austerlitz",
+    "lat": 48.842626,
+    "lng": 2.364971,
+    "lines": [
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      },
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "gare-de-lyon",
+    "name": "Gare de Lyon",
+    "lat": 48.844722,
+    "lng": 2.373889,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      },
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "gare-de-l-est",
+    "name": "Gare de l'Est",
+    "lat": 48.876111,
+    "lng": 2.358333,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      },
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      },
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "gare-du-nord",
+    "name": "Gare du Nord",
+    "lat": 48.880556,
+    "lng": 2.355,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      },
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      }
+    ]
+  },
+  {
+    "id": "garibaldi",
+    "name": "Garibaldi",
+    "lat": 48.90639,
+    "lng": 2.33194,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "gaite",
+    "name": "Gaîté",
+    "lat": 48.838654,
+    "lng": 2.322637,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "george-v",
+    "name": "George V",
+    "lat": 48.871944,
+    "lng": 2.300556,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      }
+    ]
+  },
+  {
+    "id": "glaciere",
+    "name": "Glacière",
+    "lat": 48.83115,
+    "lng": 2.343384,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "goncourt",
+    "name": "Goncourt",
+    "lat": 48.869831,
+    "lng": 2.370687,
+    "lines": [
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "grands-boulevards",
+    "name": "Grands Boulevards",
+    "lat": 48.871426,
+    "lng": 2.344342,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      },
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "guy-moquet",
+    "name": "Guy Môquet",
+    "lat": 48.892222,
+    "lng": 2.327222,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "havre-caumartin",
+    "name": "Havre—Caumartin",
+    "lat": 48.873465,
+    "lng": 2.327968,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      },
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "hoche",
+    "name": "Hoche",
+    "lat": 48.891,
+    "lng": 2.403,
+    "lines": [
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      }
+    ]
+  },
+  {
+    "id": "hopital-bicetre",
+    "name": "Hôpital Bicêtre",
+    "lat": 48.809722,
+    "lng": 2.349722,
+    "lines": [
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "hotel-de-ville",
+    "name": "Hôtel de Ville",
+    "lat": 48.857487,
+    "lng": 2.351525,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      },
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "invalides",
+    "name": "Invalides",
+    "lat": 48.86299,
+    "lng": 2.31333,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      },
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "iena",
+    "name": "Iéna",
+    "lat": 48.864466,
+    "lng": 2.29338,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "jacques-bonsergent",
+    "name": "Jacques Bonsergent",
+    "lat": 48.871,
+    "lng": 2.361,
+    "lines": [
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      }
+    ]
+  },
+  {
+    "id": "jasmin",
+    "name": "Jasmin",
+    "lat": 48.851898,
+    "lng": 2.267856,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "jaures",
+    "name": "Jaurès",
+    "lat": 48.88292,
+    "lng": 2.37067,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      },
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      },
+      {
+        "line": "7bis",
+        "code": "7bis",
+        "color": "#6eca97",
+        "lineName": "Ligne 7bis"
+      }
+    ]
+  },
+  {
+    "id": "javel-andre-citroen",
+    "name": "Javel—André Citroën",
+    "lat": 48.846165,
+    "lng": 2.278716,
+    "lines": [
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "jourdain",
+    "name": "Jourdain",
+    "lat": 48.8752,
+    "lng": 2.389508,
+    "lines": [
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "jules-joffrin",
+    "name": "Jules Joffrin",
+    "lat": 48.892437,
+    "lng": 2.344782,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "jussieu",
+    "name": "Jussieu",
+    "lat": 48.846052,
+    "lng": 2.355738,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      },
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "kleber",
+    "name": "Kléber",
+    "lat": 48.871138,
+    "lng": 2.293118,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "l-hay-les-roses",
+    "name": "L'Haÿ-les-Roses",
+    "lat": 48.775278,
+    "lng": 2.354167,
+    "lines": [
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "la-chapelle",
+    "name": "La Chapelle",
+    "lat": 48.884411,
+    "lng": 2.360288,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      }
+    ]
+  },
+  {
+    "id": "la-courneuve-8-mai-1945",
+    "name": "La Courneuve—8 Mai 1945",
+    "lat": 48.920777,
+    "lng": 2.410668,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "la-dhuys",
+    "name": "La Dhuys",
+    "lat": 48.877536,
+    "lng": 2.4651,
+    "lines": [
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "la-defense",
+    "name": "La Défense",
+    "lat": 48.891852,
+    "lng": 2.238539,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      }
+    ]
+  },
+  {
+    "id": "la-fourche",
+    "name": "La Fourche",
+    "lat": 48.886944,
+    "lng": 2.325833,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "la-motte-picquet-grenelle",
+    "name": "La Motte-Picquet—Grenelle",
+    "lat": 48.849143,
+    "lng": 2.29809,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      },
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      },
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "la-muette",
+    "name": "La Muette",
+    "lat": 48.857718,
+    "lng": 2.273719,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "la-tour-maubourg",
+    "name": "La Tour-Maubourg",
+    "lat": 48.857667,
+    "lng": 2.310399,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "lamarck-caulaincourt",
+    "name": "Lamarck—Caulaincourt",
+    "lat": 48.889139,
+    "lng": 2.338159,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "laumiere",
+    "name": "Laumière",
+    "lat": 48.885,
+    "lng": 2.379,
+    "lines": [
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      }
+    ]
+  },
+  {
+    "id": "le-kremlin-bicetre",
+    "name": "Le Kremlin—Bicêtre",
+    "lat": 48.810388,
+    "lng": 2.361849,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "le-peletier",
+    "name": "Le Peletier",
+    "lat": 48.87472,
+    "lng": 2.33955,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "ledru-rollin",
+    "name": "Ledru-Rollin",
+    "lat": 48.851529,
+    "lng": 2.37516,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "les-agnettes",
+    "name": "Les Agnettes",
+    "lat": 48.923056,
+    "lng": 2.285833,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "les-courtilles",
+    "name": "Les Courtilles",
+    "lat": 48.930556,
+    "lng": 2.283889,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "les-gobelins",
+    "name": "Les Gobelins",
+    "lat": 48.8364,
+    "lng": 2.35225,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "les-halles",
+    "name": "Les Halles",
+    "lat": 48.8625,
+    "lng": 2.34611,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "les-sablons",
+    "name": "Les Sablons",
+    "lat": 48.880833,
+    "lng": 2.272222,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      }
+    ]
+  },
+  {
+    "id": "liberte",
+    "name": "Liberté",
+    "lat": 48.825882,
+    "lng": 2.407022,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "liege",
+    "name": "Liège",
+    "lat": 48.879722,
+    "lng": 2.326944,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "louis-blanc",
+    "name": "Louis Blanc",
+    "lat": 48.881137,
+    "lng": 2.364839,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      },
+      {
+        "line": "7bis",
+        "code": "7bis",
+        "color": "#6eca97",
+        "lineName": "Ligne 7bis"
+      }
+    ]
+  },
+  {
+    "id": "louise-michel",
+    "name": "Louise Michel",
+    "lat": 48.889273,
+    "lng": 2.288073,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "lourmel",
+    "name": "Lourmel",
+    "lat": 48.838604,
+    "lng": 2.281817,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "louvre-rivoli",
+    "name": "Louvre—Rivoli",
+    "lat": 48.86108,
+    "lng": 2.340283,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      }
+    ]
+  },
+  {
+    "id": "mabillon",
+    "name": "Mabillon",
+    "lat": 48.852775,
+    "lng": 2.335322,
+    "lines": [
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "madeleine",
+    "name": "Madeleine",
+    "lat": 48.86977,
+    "lng": 2.3244,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      },
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      },
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "mairie-d-aubervilliers",
+    "name": "Mairie d'Aubervilliers",
+    "lat": 48.913829,
+    "lng": 2.380651,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "mairie-d-issy",
+    "name": "Mairie d'Issy",
+    "lat": 48.824152,
+    "lng": 2.273434,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "mairie-d-ivry",
+    "name": "Mairie d'Ivry",
+    "lat": 48.81112,
+    "lng": 2.38339,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "mairie-de-clichy",
+    "name": "Mairie de Clichy",
+    "lat": 48.903056,
+    "lng": 2.306111,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "mairie-de-montreuil",
+    "name": "Mairie de Montreuil",
+    "lat": 48.862283,
+    "lng": 2.441847,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "mairie-de-montrouge",
+    "name": "Mairie de Montrouge",
+    "lat": 48.81843,
+    "lng": 2.31953,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "mairie-de-saint-ouen",
+    "name": "Mairie de Saint-Ouen",
+    "lat": 48.91167,
+    "lng": 2.33389,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      },
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "mairie-des-lilas",
+    "name": "Mairie des Lilas",
+    "lat": 48.879788,
+    "lng": 2.416289,
+    "lines": [
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "maison-blanche",
+    "name": "Maison Blanche",
+    "lat": 48.822155,
+    "lng": 2.358531,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      },
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "maisons-alfort-les-juilliottes",
+    "name": "Maisons-Alfort—Les Juilliottes",
+    "lat": 48.802567,
+    "lng": 2.446432,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "maisons-alfort-stade",
+    "name": "Maisons-Alfort—Stade",
+    "lat": 48.808681,
+    "lng": 2.436073,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "malakoff-plateau-de-vanves",
+    "name": "Malakoff—Plateau de Vanves",
+    "lat": 48.82284,
+    "lng": 2.29834,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "malakoff-rue-etienne-dolet",
+    "name": "Malakoff—Rue Étienne Dolet",
+    "lat": 48.8147,
+    "lng": 2.2973,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "malesherbes",
+    "name": "Malesherbes",
+    "lat": 48.882476,
+    "lng": 2.311002,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "maraichers",
+    "name": "Maraîchers",
+    "lat": 48.852851,
+    "lng": 2.40699,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "marcadet-poissonniers",
+    "name": "Marcadet—Poissonniers",
+    "lat": 48.890278,
+    "lng": 2.35,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      },
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "marcel-sembat",
+    "name": "Marcel Sembat",
+    "lat": 48.83367,
+    "lng": 2.243579,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "marx-dormoy",
+    "name": "Marx Dormoy",
+    "lat": 48.891213,
+    "lng": 2.359909,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "maubert-mutualite",
+    "name": "Maubert—Mutualité",
+    "lat": 48.850193,
+    "lng": 2.347936,
+    "lines": [
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "michel-bizot",
+    "name": "Michel Bizot",
+    "lat": 48.837485,
+    "lng": 2.401234,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "michel-ange-auteuil",
+    "name": "Michel-Ange—Auteuil",
+    "lat": 48.8475,
+    "lng": 2.263611,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      },
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "michel-ange-molitor",
+    "name": "Michel-Ange—Molitor",
+    "lat": 48.84496,
+    "lng": 2.261194,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      },
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "mirabeau",
+    "name": "Mirabeau",
+    "lat": 48.8469,
+    "lng": 2.2721,
+    "lines": [
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "miromesnil",
+    "name": "Miromesnil",
+    "lat": 48.87367,
+    "lng": 2.31446,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      },
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "monceau",
+    "name": "Monceau",
+    "lat": 48.88,
+    "lng": 2.308333,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      }
+    ]
+  },
+  {
+    "id": "montgallet",
+    "name": "Montgallet",
+    "lat": 48.844276,
+    "lng": 2.389974,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "montparnasse-bienvenue",
+    "name": "Montparnasse—Bienvenüe",
+    "lat": 48.843466,
+    "lng": 2.323072,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      },
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      },
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      },
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "montreuil-hopital",
+    "name": "Montreuil-Hôpital",
+    "lat": 48.8783,
+    "lng": 2.454617,
+    "lines": [
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "mouton-duvernet",
+    "name": "Mouton-Duvernet",
+    "lat": 48.832139,
+    "lng": 2.330325,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "menilmontant",
+    "name": "Ménilmontant",
+    "lat": 48.866248,
+    "lng": 2.383618,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      }
+    ]
+  },
+  {
+    "id": "nation",
+    "name": "Nation",
+    "lat": 48.848333,
+    "lng": 2.395833,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      },
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      },
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      },
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "nationale",
+    "name": "Nationale",
+    "lat": 48.833183,
+    "lng": 2.362718,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "notre-dame-de-lorette",
+    "name": "Notre-Dame-de-Lorette",
+    "lat": 48.87604,
+    "lng": 2.337341,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "notre-dame-des-champs",
+    "name": "Notre-Dame-des-Champs",
+    "lat": 48.844568,
+    "lng": 2.328788,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "oberkampf",
+    "name": "Oberkampf",
+    "lat": 48.8635,
+    "lng": 2.37025,
+    "lines": [
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      },
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "odeon",
+    "name": "Odéon",
+    "lat": 48.851944,
+    "lng": 2.338889,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      },
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "olympiades",
+    "name": "Olympiades",
+    "lat": 48.827222,
+    "lng": 2.368333,
+    "lines": [
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "opera",
+    "name": "Opéra",
+    "lat": 48.870636,
+    "lng": 2.332353,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      },
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      },
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "ourcq",
+    "name": "Ourcq",
+    "lat": 48.887,
+    "lng": 2.386,
+    "lines": [
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      }
+    ]
+  },
+  {
+    "id": "palais-royal-musee-du-louvre",
+    "name": "Palais Royal–Musée du Louvre",
+    "lat": 48.862644,
+    "lng": 2.336578,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      },
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "parmentier",
+    "name": "Parmentier",
+    "lat": 48.865299,
+    "lng": 2.374381,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "passy",
+    "name": "Passy",
+    "lat": 48.857445,
+    "lng": 2.285779,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "pasteur",
+    "name": "Pasteur",
+    "lat": 48.842836,
+    "lng": 2.312681,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      },
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "pelleport",
+    "name": "Pelleport",
+    "lat": 48.868671,
+    "lng": 2.401752,
+    "lines": [
+      {
+        "line": "3bis",
+        "code": "3bis",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 3bis"
+      }
+    ]
+  },
+  {
+    "id": "pereire",
+    "name": "Pereire",
+    "lat": 48.884648,
+    "lng": 2.299211,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "pernety",
+    "name": "Pernety",
+    "lat": 48.83421,
+    "lng": 2.31851,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "philippe-auguste",
+    "name": "Philippe Auguste",
+    "lat": 48.858021,
+    "lng": 2.390938,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      }
+    ]
+  },
+  {
+    "id": "picpus",
+    "name": "Picpus",
+    "lat": 48.84515,
+    "lng": 2.400494,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "pierre-et-marie-curie",
+    "name": "Pierre et Marie Curie",
+    "lat": 48.81592,
+    "lng": 2.37789,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "pigalle",
+    "name": "Pigalle",
+    "lat": 48.882255,
+    "lng": 2.337573,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      },
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "place-monge",
+    "name": "Place Monge",
+    "lat": 48.84359,
+    "lng": 2.352279,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "place-d-italie",
+    "name": "Place d'Italie",
+    "lat": 48.831483,
+    "lng": 2.355692,
+    "lines": [
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      },
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      },
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "place-de-clichy",
+    "name": "Place de Clichy",
+    "lat": 48.883889,
+    "lng": 2.3275,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      },
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "place-des-fetes",
+    "name": "Place des Fêtes",
+    "lat": 48.87684,
+    "lng": 2.39296,
+    "lines": [
+      {
+        "line": "7bis",
+        "code": "7bis",
+        "color": "#6eca97",
+        "lineName": "Ligne 7bis"
+      },
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "plaisance",
+    "name": "Plaisance",
+    "lat": 48.831553,
+    "lng": 2.313741,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "pointe-du-lac",
+    "name": "Pointe du Lac",
+    "lat": 48.76889,
+    "lng": 2.46472,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "poissonniere",
+    "name": "Poissonnière",
+    "lat": 48.87708,
+    "lng": 2.34845,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "pont-cardinet",
+    "name": "Pont Cardinet",
+    "lat": 48.889481,
+    "lng": 2.315206,
+    "lines": [
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "pont-marie",
+    "name": "Pont Marie",
+    "lat": 48.85329,
+    "lng": 2.35762,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "pont-neuf",
+    "name": "Pont Neuf",
+    "lat": 48.85868,
+    "lng": 2.34149,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "pont-de-levallois-becon",
+    "name": "Pont de Levallois—Bécon",
+    "lat": 48.897313,
+    "lng": 2.280787,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "pont-de-neuilly",
+    "name": "Pont de Neuilly",
+    "lat": 48.885,
+    "lng": 2.259722,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      }
+    ]
+  },
+  {
+    "id": "pont-de-sevres",
+    "name": "Pont de Sèvres",
+    "lat": 48.829747,
+    "lng": 2.231035,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "porte-dauphine",
+    "name": "Porte Dauphine",
+    "lat": 48.87139,
+    "lng": 2.27667,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      }
+    ]
+  },
+  {
+    "id": "porte-doree",
+    "name": "Porte Dorée",
+    "lat": 48.835481,
+    "lng": 2.4061,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "porte-maillot",
+    "name": "Porte Maillot",
+    "lat": 48.878056,
+    "lng": 2.281944,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      }
+    ]
+  },
+  {
+    "id": "porte-d-auteuil",
+    "name": "Porte d'Auteuil",
+    "lat": 48.848025,
+    "lng": 2.25875,
+    "lines": [
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "porte-d-italie",
+    "name": "Porte d'Italie",
+    "lat": 48.819196,
+    "lng": 2.360805,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "porte-d-ivry",
+    "name": "Porte d'Ivry",
+    "lat": 48.82096,
+    "lng": 2.37044,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "porte-d-orleans",
+    "name": "Porte d'Orléans",
+    "lat": 48.823189,
+    "lng": 2.325364,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "porte-de-bagnolet",
+    "name": "Porte de Bagnolet",
+    "lat": 48.864565,
+    "lng": 2.407278,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "porte-de-champerret",
+    "name": "Porte de Champerret",
+    "lat": 48.885851,
+    "lng": 2.293487,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "porte-de-charenton",
+    "name": "Porte de Charenton",
+    "lat": 48.83278,
+    "lng": 2.4004,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "porte-de-choisy",
+    "name": "Porte de Choisy",
+    "lat": 48.82032,
+    "lng": 2.36529,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "porte-de-clichy",
+    "name": "Porte de Clichy",
+    "lat": 48.893889,
+    "lng": 2.314444,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      },
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "porte-de-clignancourt",
+    "name": "Porte de Clignancourt",
+    "lat": 48.896944,
+    "lng": 2.345,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "porte-de-montreuil",
+    "name": "Porte de Montreuil",
+    "lat": 48.853792,
+    "lng": 2.412245,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "porte-de-pantin",
+    "name": "Porte de Pantin",
+    "lat": 48.88971,
+    "lng": 2.39629,
+    "lines": [
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      }
+    ]
+  },
+  {
+    "id": "porte-de-saint-cloud",
+    "name": "Porte de Saint-Cloud",
+    "lat": 48.838082,
+    "lng": 2.256956,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "porte-de-saint-ouen",
+    "name": "Porte de Saint-Ouen",
+    "lat": 48.896667,
+    "lng": 2.328611,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "porte-de-vanves",
+    "name": "Porte de Vanves",
+    "lat": 48.82794,
+    "lng": 2.30588,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "porte-de-versailles",
+    "name": "Porte de Versailles",
+    "lat": 48.832328,
+    "lng": 2.287841,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "porte-de-vincennes",
+    "name": "Porte de Vincennes",
+    "lat": 48.847326,
+    "lng": 2.407759,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      }
+    ]
+  },
+  {
+    "id": "porte-de-la-chapelle",
+    "name": "Porte de la Chapelle",
+    "lat": 48.897274,
+    "lng": 2.359191,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "porte-de-la-villette",
+    "name": "Porte de la Villette",
+    "lat": 48.89709,
+    "lng": 2.38588,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "porte-des-lilas",
+    "name": "Porte des Lilas",
+    "lat": 48.877183,
+    "lng": 2.406655,
+    "lines": [
+      {
+        "line": "3bis",
+        "code": "3bis",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 3bis"
+      },
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "pre-saint-gervais",
+    "name": "Pré-Saint-Gervais",
+    "lat": 48.88025,
+    "lng": 2.39891,
+    "lines": [
+      {
+        "line": "7bis",
+        "code": "7bis",
+        "color": "#6eca97",
+        "lineName": "Ligne 7bis"
+      }
+    ]
+  },
+  {
+    "id": "pyramides",
+    "name": "Pyramides",
+    "lat": 48.86587,
+    "lng": 2.33467,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      },
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "pyrenees",
+    "name": "Pyrénées",
+    "lat": 48.873875,
+    "lng": 2.385259,
+    "lines": [
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "pere-lachaise",
+    "name": "Père Lachaise",
+    "lat": 48.862921,
+    "lng": 2.387388,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      },
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "quai-de-la-gare",
+    "name": "Quai de la Gare",
+    "lat": 48.837069,
+    "lng": 2.372773,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "quai-de-la-rapee",
+    "name": "Quai de la Rapée",
+    "lat": 48.846,
+    "lng": 2.366,
+    "lines": [
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      }
+    ]
+  },
+  {
+    "id": "quatre-septembre",
+    "name": "Quatre-Septembre",
+    "lat": 48.869574,
+    "lng": 2.336633,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "rambuteau",
+    "name": "Rambuteau",
+    "lat": 48.86119,
+    "lng": 2.35343,
+    "lines": [
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "ranelagh",
+    "name": "Ranelagh",
+    "lat": 48.85502,
+    "lng": 2.269634,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "raspail",
+    "name": "Raspail",
+    "lat": 48.839194,
+    "lng": 2.330606,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      },
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "rennes",
+    "name": "Rennes",
+    "lat": 48.848193,
+    "lng": 2.327763,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "reuilly-diderot",
+    "name": "Reuilly—Diderot",
+    "lat": 48.846944,
+    "lng": 2.386389,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      },
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "richard-lenoir",
+    "name": "Richard-Lenoir",
+    "lat": 48.86,
+    "lng": 2.372,
+    "lines": [
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      }
+    ]
+  },
+  {
+    "id": "richelieu-drouot",
+    "name": "Richelieu—Drouot",
+    "lat": 48.871987,
+    "lng": 2.338741,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "riquet",
+    "name": "Riquet",
+    "lat": 48.88788,
+    "lng": 2.373578,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "robespierre",
+    "name": "Robespierre",
+    "lat": 48.855683,
+    "lng": 2.423678,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "romainville-carnot",
+    "name": "Romainville—Carnot",
+    "lat": 48.883253,
+    "lng": 2.440822,
+    "lines": [
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "rome",
+    "name": "Rome",
+    "lat": 48.882425,
+    "lng": 2.322052,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      }
+    ]
+  },
+  {
+    "id": "rosny-bois-perrier",
+    "name": "Rosny-Bois Perrier",
+    "lat": 48.88264,
+    "lng": 2.4815,
+    "lines": [
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "rue-saint-maur",
+    "name": "Rue Saint-Maur",
+    "lat": 48.864335,
+    "lng": 2.379448,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "rue-de-la-pompe",
+    "name": "Rue de la Pompe",
+    "lat": 48.863912,
+    "lng": 2.279052,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "rue-des-boulets",
+    "name": "Rue des Boulets",
+    "lat": 48.851811,
+    "lng": 2.390151,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "rue-du-bac",
+    "name": "Rue du Bac",
+    "lat": 48.85569,
+    "lng": 2.325607,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "reaumur-sebastopol",
+    "name": "Réaumur—Sébastopol",
+    "lat": 48.866111,
+    "lng": 2.3525,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      },
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "republique",
+    "name": "République",
+    "lat": 48.867503,
+    "lng": 2.363811,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      },
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      },
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      },
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      },
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "saint-ambroise",
+    "name": "Saint-Ambroise",
+    "lat": 48.861295,
+    "lng": 2.374211,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "saint-augustin",
+    "name": "Saint-Augustin",
+    "lat": 48.874441,
+    "lng": 2.322133,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "saint-denis-pleyel",
+    "name": "Saint-Denis–Pleyel",
+    "lat": 48.917709,
+    "lng": 2.344116,
+    "lines": [
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "saint-denis-porte-de-paris",
+    "name": "Saint-Denis—Porte de Paris",
+    "lat": 48.93028,
+    "lng": 2.35778,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "saint-denis-universite",
+    "name": "Saint-Denis—Université",
+    "lat": 48.94583,
+    "lng": 2.36361,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "saint-fargeau",
+    "name": "Saint-Fargeau",
+    "lat": 48.872083,
+    "lng": 2.40452,
+    "lines": [
+      {
+        "line": "3bis",
+        "code": "3bis",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 3bis"
+      }
+    ]
+  },
+  {
+    "id": "saint-francois-xavier",
+    "name": "Saint-François-Xavier",
+    "lat": 48.851951,
+    "lng": 2.314475,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "saint-georges",
+    "name": "Saint-Georges",
+    "lat": 48.878449,
+    "lng": 2.337382,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "saint-germain-des-pres",
+    "name": "Saint-Germain-des-Prés",
+    "lat": 48.853889,
+    "lng": 2.333333,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "saint-jacques",
+    "name": "Saint-Jacques",
+    "lat": 48.832913,
+    "lng": 2.337081,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "saint-lazare",
+    "name": "Saint-Lazare",
+    "lat": 48.87549,
+    "lng": 2.32664,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      },
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      },
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      },
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "saint-mande",
+    "name": "Saint-Mandé",
+    "lat": 48.846111,
+    "lng": 2.418889,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      }
+    ]
+  },
+  {
+    "id": "saint-marcel",
+    "name": "Saint-Marcel",
+    "lat": 48.838,
+    "lng": 2.36,
+    "lines": [
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      }
+    ]
+  },
+  {
+    "id": "saint-michel",
+    "name": "Saint-Michel",
+    "lat": 48.853611,
+    "lng": 2.343889,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "saint-ouen",
+    "name": "Saint-Ouen",
+    "lat": 48.904497,
+    "lng": 2.321806,
+    "lines": [
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "saint-paul",
+    "name": "Saint-Paul",
+    "lat": 48.855214,
+    "lng": 2.360859,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      }
+    ]
+  },
+  {
+    "id": "saint-philippe-du-roule",
+    "name": "Saint-Philippe du Roule",
+    "lat": 48.871941,
+    "lng": 2.310036,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "saint-placide",
+    "name": "Saint-Placide",
+    "lat": 48.846844,
+    "lng": 2.326914,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "saint-sulpice",
+    "name": "Saint-Sulpice",
+    "lat": 48.850909,
+    "lng": 2.330652,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "saint-sebastien-froissart",
+    "name": "Saint-Sébastien—Froissart",
+    "lat": 48.86048,
+    "lng": 2.367358,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "sentier",
+    "name": "Sentier",
+    "lat": 48.8676,
+    "lng": 2.3464,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "serge-gainsbourg",
+    "name": "Serge Gainsbourg",
+    "lat": 48.881258,
+    "lng": 2.427228,
+    "lines": [
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "simplon",
+    "name": "Simplon",
+    "lat": 48.893333,
+    "lng": 2.348333,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "solferino",
+    "name": "Solférino",
+    "lat": 48.858249,
+    "lng": 2.323225,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "stalingrad",
+    "name": "Stalingrad",
+    "lat": 48.88429,
+    "lng": 2.36586,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      },
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      },
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "strasbourg-saint-denis",
+    "name": "Strasbourg—Saint-Denis",
+    "lat": 48.869722,
+    "lng": 2.353889,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      },
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      },
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "sully-morland",
+    "name": "Sully—Morland",
+    "lat": 48.851425,
+    "lng": 2.361894,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "sevres-babylone",
+    "name": "Sèvres—Babylone",
+    "lat": 48.85151,
+    "lng": 2.326655,
+    "lines": [
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      },
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "sevres-lecourbe",
+    "name": "Sèvres—Lecourbe",
+    "lat": 48.845634,
+    "lng": 2.309476,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      }
+    ]
+  },
+  {
+    "id": "segur",
+    "name": "Ségur",
+    "lat": 48.847434,
+    "lng": 2.306853,
+    "lines": [
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "temple",
+    "name": "Temple",
+    "lat": 48.866488,
+    "lng": 2.360595,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "ternes",
+    "name": "Ternes",
+    "lat": 48.877778,
+    "lng": 2.298611,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      }
+    ]
+  },
+  {
+    "id": "thiais-orly",
+    "name": "Thiais–Orly",
+    "lat": 48.747367,
+    "lng": 2.372931,
+    "lines": [
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "tolbiac",
+    "name": "Tolbiac",
+    "lat": 48.826665,
+    "lng": 2.357678,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "trinite-d-estienne-d-orves",
+    "name": "Trinité—d'Estienne d'Orves",
+    "lat": 48.876302,
+    "lng": 2.333197,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "trocadero",
+    "name": "Trocadéro",
+    "lat": 48.863301,
+    "lng": 2.287061,
+    "lines": [
+      {
+        "line": "6",
+        "code": "6",
+        "color": "#6eca97",
+        "lineName": "Ligne 6"
+      },
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "tuileries",
+    "name": "Tuileries",
+    "lat": 48.864531,
+    "lng": 2.329617,
+    "lines": [
+      {
+        "line": "1",
+        "code": "1",
+        "color": "#ffcd00",
+        "lineName": "Ligne 1"
+      }
+    ]
+  },
+  {
+    "id": "telegraphe",
+    "name": "Télégraphe",
+    "lat": 48.875463,
+    "lng": 2.398434,
+    "lines": [
+      {
+        "line": "11",
+        "code": "11",
+        "color": "#704b1c",
+        "lineName": "Ligne 11"
+      }
+    ]
+  },
+  {
+    "id": "vaneau",
+    "name": "Vaneau",
+    "lat": 48.848947,
+    "lng": 2.321557,
+    "lines": [
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "varenne",
+    "name": "Varenne",
+    "lat": 48.856238,
+    "lng": 2.314921,
+    "lines": [
+      {
+        "line": "13",
+        "code": "13",
+        "color": "#6ec4e8",
+        "lineName": "Ligne 13"
+      }
+    ]
+  },
+  {
+    "id": "vaugirard",
+    "name": "Vaugirard",
+    "lat": 48.839649,
+    "lng": 2.301491,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "vavin",
+    "name": "Vavin",
+    "lat": 48.842233,
+    "lng": 2.32895,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  },
+  {
+    "id": "victor-hugo",
+    "name": "Victor Hugo",
+    "lat": 48.86972,
+    "lng": 2.285,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      }
+    ]
+  },
+  {
+    "id": "villejuif-gustave-roussy",
+    "name": "Villejuif–Gustave Roussy",
+    "lat": 48.7933,
+    "lng": 2.34926,
+    "lines": [
+      {
+        "line": "14",
+        "code": "14",
+        "color": "#62259d",
+        "lineName": "Ligne 14"
+      }
+    ]
+  },
+  {
+    "id": "villejuif-louis-aragon",
+    "name": "Villejuif—Louis Aragon",
+    "lat": 48.787175,
+    "lng": 2.367564,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "villejuif-leo-lagrange",
+    "name": "Villejuif—Léo Lagrange",
+    "lat": 48.803768,
+    "lng": 2.363927,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "villejuif-paul-vaillant-couturier",
+    "name": "Villejuif—Paul Vaillant-Couturier",
+    "lat": 48.795991,
+    "lng": 2.368248,
+    "lines": [
+      {
+        "line": "7",
+        "code": "7",
+        "color": "#fa9aba",
+        "lineName": "Ligne 7"
+      }
+    ]
+  },
+  {
+    "id": "villiers",
+    "name": "Villiers",
+    "lat": 48.88113,
+    "lng": 2.314867,
+    "lines": [
+      {
+        "line": "2",
+        "code": "2",
+        "color": "#003ca6",
+        "lineName": "Ligne 2"
+      },
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "volontaires",
+    "name": "Volontaires",
+    "lat": 48.841343,
+    "lng": 2.307504,
+    "lines": [
+      {
+        "line": "12",
+        "code": "12",
+        "color": "#007852",
+        "lineName": "Ligne 12"
+      }
+    ]
+  },
+  {
+    "id": "voltaire",
+    "name": "Voltaire",
+    "lat": 48.857803,
+    "lng": 2.380106,
+    "lines": [
+      {
+        "line": "9",
+        "code": "9",
+        "color": "#b6bd00",
+        "lineName": "Ligne 9"
+      }
+    ]
+  },
+  {
+    "id": "wagram",
+    "name": "Wagram",
+    "lat": 48.884057,
+    "lng": 2.303668,
+    "lines": [
+      {
+        "line": "3",
+        "code": "3",
+        "color": "#837902",
+        "lineName": "Ligne 3"
+      }
+    ]
+  },
+  {
+    "id": "ecole-militaire",
+    "name": "École Militaire",
+    "lat": 48.85511,
+    "lng": 2.306737,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "ecole-veterinaire-de-maisons-alfort",
+    "name": "École Vétérinaire de Maisons-Alfort",
+    "lat": 48.81519,
+    "lng": 2.421882,
+    "lines": [
+      {
+        "line": "8",
+        "code": "8",
+        "color": "#e19bdf",
+        "lineName": "Ligne 8"
+      }
+    ]
+  },
+  {
+    "id": "eglise-d-auteuil",
+    "name": "Église d'Auteuil",
+    "lat": 48.847169,
+    "lng": 2.26902,
+    "lines": [
+      {
+        "line": "10",
+        "code": "10",
+        "color": "#c9910d",
+        "lineName": "Ligne 10"
+      }
+    ]
+  },
+  {
+    "id": "eglise-de-pantin",
+    "name": "Église de Pantin",
+    "lat": 48.894,
+    "lng": 2.413,
+    "lines": [
+      {
+        "line": "5",
+        "code": "5",
+        "color": "#ff7e2e",
+        "lineName": "Ligne 5"
+      }
+    ]
+  },
+  {
+    "id": "etienne-marcel",
+    "name": "Étienne Marcel",
+    "lat": 48.864167,
+    "lng": 2.350556,
+    "lines": [
+      {
+        "line": "4",
+        "code": "4",
+        "color": "#cf009e",
+        "lineName": "Ligne 4"
+      }
+    ]
+  }
+]

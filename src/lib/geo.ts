@@ -18,6 +18,17 @@ export interface LineMeta {
   name: string;
   color: string;
   path: string[];
+  /** Branch segment that shows/hides with this parent line id. */
+  parent?: string;
+  /** Draw with a thinner stroke (e.g. LRT feeders). */
+  thin?: boolean;
+}
+
+export interface Network {
+  id: string;
+  name: string;
+  stations: Station[];
+  lines: LineMeta[];
 }
 
 const EARTH_RADIUS_M = 6371000;
@@ -59,25 +70,30 @@ export function findNearestStations(
     .slice(0, count);
 }
 
-// Bounding box of Singapore MRT/LRT network, used to project lat/lng to SVG space.
-export const SG_BOUNDS = {
-  minLat: 1.245,
-  maxLat: 1.452,
-  minLng: 103.605,
-  maxLng: 103.975,
-};
-
 export interface Projection {
   x: (lng: number) => number;
   y: (lat: number) => number;
 }
 
 export function makeProjection(
+  stations: Station[],
   width: number,
   height: number,
   padding = 40
 ): Projection {
-  const { minLat, maxLat, minLng, maxLng } = SG_BOUNDS;
+  // Derive the network's bounding box from its stations, with a small
+  // geographic margin so termini don't sit at the very edge.
+  let minLat = Infinity, maxLat = -Infinity, minLng = Infinity, maxLng = -Infinity;
+  for (const s of stations) {
+    if (s.lat < minLat) minLat = s.lat;
+    if (s.lat > maxLat) maxLat = s.lat;
+    if (s.lng < minLng) minLng = s.lng;
+    if (s.lng > maxLng) maxLng = s.lng;
+  }
+  const latPad = (maxLat - minLat) * 0.03;
+  const lngPad = (maxLng - minLng) * 0.03;
+  minLat -= latPad; maxLat += latPad;
+  minLng -= lngPad; maxLng += lngPad;
   const latRange = maxLat - minLat;
   const lngRange = maxLng - minLng;
 

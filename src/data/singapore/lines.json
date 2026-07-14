@@ -81,7 +81,8 @@
       "tanah-merah",
       "expo",
       "changi-airport"
-    ]
+    ],
+    "parent": "EW"
   },
   {
     "id": "CC",
@@ -244,7 +245,8 @@
       "jelapang",
       "segar",
       "choa-chu-kang"
-    ]
+    ],
+    "thin": true
   },
   {
     "id": "SK",
@@ -266,7 +268,8 @@
       "layar",
       "fernvale",
       "sengkang"
-    ]
+    ],
+    "thin": true
   },
   {
     "id": "PG",
@@ -289,6 +292,7 @@
       "sumang",
       "soo-teck",
       "punggol"
-    ]
+    ],
+    "thin": true
   }
 ]
